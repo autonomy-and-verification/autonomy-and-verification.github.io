@@ -49,7 +49,7 @@ collections:
 permalink: /blog/:year/:title
 
 address:
-  - line: 
+  - line:
 
 #Google API key
 google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
@@ -57,7 +57,7 @@ google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
 #### SEO Stuff
 
 # Twitter Cards
-twitter_user: LivUni_AVLab
+twitter_user: AandVNetwork
 twitter_card: true
 twitter_image: https://autonomy-and-verification.github.io/images/ashton-home.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
