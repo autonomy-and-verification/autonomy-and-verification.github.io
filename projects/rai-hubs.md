@@ -81,6 +81,6 @@ More information can be found on the [FAIR-SPACE Hub website](https://www.fairsp
 
 # RAI Hubs Publications
 
-<script src="https://bibbase.org/show?bib=https://autonomy-and-verification-uol.github.io/pubs.bib&jsonp=1&group0=year&filter=note:RAIN|ORCA|FAIR-SPACE"></script>
+<script src="https://bibbase.org/show?bib=https://autonomy-and-verification.github.io/pubs.bib&jsonp=1&group0=year&filter=note:RAIN|ORCA|FAIR-SPACE"></script>
 
 ![UKRIIS]({{site.images}}logos/ISCF_UKRI_Logo-s.png)
