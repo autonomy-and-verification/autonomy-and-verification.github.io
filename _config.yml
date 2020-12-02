@@ -38,6 +38,8 @@ destination: _site
 collections:
   events:
     output: true
+  tools:
+    output: true
   projects:
     output: false
   projects-previous:
