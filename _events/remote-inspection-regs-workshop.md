@@ -38,6 +38,10 @@ This workshop brings together people who are interested in the verification and 
 
 The workshop is divided into three sessions covering: Applications, Regulation and Verification, and Future Challenges.  Each session will have talks and a Q&A session, to further dig into the details of the regulation and verification challenges. We have a variety of speakers, from industry, regulation organisations, and academia.
 
+## Registration
+
+Registration for the workshop is *free* and available via our [eventbrite page](https://www.eventbrite.co.uk/e/verification-and-regulatory-issues-for-remote-robotic-inspection-tickets-130767654575)
+
 ## Programme
 
 * **Introduction** 09:00 -- Chair: Michael Fisher
