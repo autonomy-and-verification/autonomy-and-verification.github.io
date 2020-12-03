@@ -42,26 +42,30 @@ The workshop is divided into three sessions covering: Applications, Regulation a
 
 Registration for the workshop is *free* and available via our [eventbrite page](https://www.eventbrite.co.uk/e/verification-and-regulatory-issues-for-remote-robotic-inspection-tickets-130767654575)
 
-## Programme
+## Draft Programme
 
-* **Introduction** 09:00 -- Chair: Michael Fisher
+* 09:00: **Introduction**  -- [Michael Fisher](https://web.cs.manchester.ac.uk/~michael)
 
-* **Session 1: APPLICATIONS** 09:10--11:10  Chair: Matt Webster
-  - Nick Hawes [Oxford, RAIN]: Remote inspection of nuclear assets
-  - Rob Richardson [Leeds, UK-RAS]: Remote urban inspection
+* 09:10--11:10: **Session 1: APPLICATIONS**   
+Session Chair: [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) (Liverpool John Moores University and [ORCA Hub]({{site.ORCA_HUB_URL}}))
+  - [Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) (University of Oxford, [RAIN Hub]({{ site.RAIN_HUB_URL }})): Remote inspection of nuclear assets
+  - Frank van Bockel (Head of New Product Development, Business Assurance & Inspection Services, Lloyds Register Group): Remote inspection and survey in industry and maritime sectors
+  - [Rob Richardson](https://eps.leeds.ac.uk/mechanical-engineering/staff/173/professor-robert-richardson) (University of Leeds, [UK-RAS](https://www.ukras.org/)): Remote urban inspection
+  - [Kris Kydd](https://www.linkedin.com/in/kris-kydd-meng-ceng-miet-3a205942) (Robotics Lead, Total E&P UK Limited): Remote inspection of Oil&Gas facilities
 
   - Q&A:
     - What do you see as the future for remote inspection?
     - What is the biggest barrier to this?
     - Is this barrier technical or regulatory?
 
-* **Break** 11:10--11:30
+* 11:10--11:30: **Break**
 
-* **Session 2: REGULATION and VERIFICATION** 11:30--13:30 Chair: Youcef Gheraibia
-  - TBD [Lloyds Register, ORCA]: Context: Offshore Regulation
-  - Andy White [ONR, RAIN]: Context: Nuclear Regulation
-  - Hamish Louden/Alex MacDonald [OREC, ORCA]: testing offshore inspection robots
-  - Matt Webster [LJMU, ORCA]: Simulation-based Testing (inspection of offshore assets)
+* 11:30--13:30: **Session 2: REGULATION and VERIFICATION**  
+Session chair: [Youcef Gheraibia](https://pure.york.ac.uk/portal/en/researchers/youcef-gheraibia(4ef9b33f-1555-4612-8e7b-c0f72be0fb0f).html) ([University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}}))
+  - Mark Tipping  (Offshore Technology Manager, [Lloyds Register Group](https://www.lr.org/en/)): Regulation and verification in offshore Oil&Gas and wind
+  - Andrew White [ONR, RAIN]: Context: Nuclear Regulation
+  - Hamish MacDonald, (Engineer, [Offshore Renewable Energy Catapult](https://ore.catapult.org.uk/)): Testing of inspection robotics in offshore wind
+  - [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) (Liverpool John Moores University and [ORCA Hub]({{site.ORCA_HUB_URL}})): Simulation-based Testing (inspection of offshore assets)
 
   - Q&A:
     - Are current approaches sufficient for remote inspection?
@@ -69,12 +73,14 @@ Registration for the workshop is *free* and available via our [eventbrite page](
     - And who needs to take them? Academia? Industry? Regulators?
     - Why is there no cross-sector approach - what is so different in each area?
 
-* **Break** 13:30--14:00
+* 13:30--14:00: **Break**
 
-* **Session 3: FUTURE and CHALLENGES** 14:00--16:00 Chair: Matt Luckcuck
-
-  - John McDermid [York, AAIP]: Assurance, Cross-sectorial issues
-  - Michael Fisher [Manchester, ORCA/RAIN]: Problems with Autonomy
+* 14:00--16:00: **Session 3: FUTURE and CHALLENGES**  
+Session chair: [Matt Luckcuck](https://www.research.manchester.ac.uk/portal/matthew.luckcuck.html) (University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{ site.RAIN_HUB_URL }}))
+  * TBC ([Sellafield](https://www.gov.uk/government/organisations/sellafield-ltd))  : Future Nuclear Opportunities
+  - [John McDermid](https://www.cs.york.ac.uk/people/jam) ()[University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}})): Assurance, Cross-sectorial issues
+  * TBC ([Oil and Gas Authority](https://www.ogauthority.co.uk)) : Offshore Opportunities
+  - [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) (University of [Manchester]({{site.UoM_URL}}), [RAIN Hub]({{ site.RAIN_HUB_URL }}), [ORCA Hub]({{site.ORCA_HUB_URL}})) : Problems with Autonomy (and Regulation/Verification)
 
   - Q&A:
     - What are the strongest opportunities?
@@ -83,7 +89,7 @@ Registration for the workshop is *free* and available via our [eventbrite page](
 
 ## Organisers
 
-* [Michael Fisher](https://cgi.csc.liv.ac.uk/~michael/) -- University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{ site.RAIN_HUB_URL }})
+* [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) -- University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{ site.RAIN_HUB_URL }})
 * [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) -- Liverpool John Moores University and [ORCA Hub]({{site.ORCA_HUB_URL}})
 * [Youcef Ggheraibia](https://pure.york.ac.uk/portal/en/researchers/youcef-gheraibia(4ef9b33f-1555-4612-8e7b-c0f72be0fb0f).html) -- [University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}})
-* [Matt Luckcuck](https://cgi.csc.liv.ac.uk/~mattlck) -- University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{ site.RAIN_HUB_URL }})
+* [Matt Luckcuck](https://www.research.manchester.ac.uk/portal/matthew.luckcuck.html) -- University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{ site.RAIN_HUB_URL }})
