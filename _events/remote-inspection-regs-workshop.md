@@ -44,10 +44,11 @@ Registration for the workshop is *free* and available via our [eventbrite page](
 
 ## Draft Programme
 
-* 09:00: **Introduction**  -- [Michael Fisher](https://web.cs.manchester.ac.uk/~michael)
+* 09:00: **Introduction**  -- [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) (University of [Manchester]({{site.UoM_URL}}), [RAIN Hub]({{ site.RAIN_HUB_URL }}), [ORCA Hub]({{site.ORCA_HUB_URL}}))
 
 * 09:10--11:10: **Session 1: APPLICATIONS**   
-Session Chair: [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) (Liverpool John Moores University and [ORCA Hub]({{site.ORCA_HUB_URL}}))
+Session Chair: [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) ([Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics) and [ORCA Hub]({{site.ORCA_HUB_URL}}))
+
   - [Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) (University of Oxford, [RAIN Hub]({{ site.RAIN_HUB_URL }})): Remote inspection of nuclear assets
   - Frank van Bockel (Head of New Product Development, Business Assurance & Inspection Services, Lloyds Register Group): Remote inspection and survey in industry and maritime sectors
   - [Rob Richardson](https://eps.leeds.ac.uk/mechanical-engineering/staff/173/professor-robert-richardson) (University of Leeds, [UK-RAS](https://www.ukras.org/)): Remote urban inspection
@@ -62,10 +63,11 @@ Session Chair: [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/fac
 
 * 11:30--13:30: **Session 2: REGULATION and VERIFICATION**  
 Session chair: [Youcef Gheraibia](https://pure.york.ac.uk/portal/en/researchers/youcef-gheraibia(4ef9b33f-1555-4612-8e7b-c0f72be0fb0f).html) ([University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}}))
+
   - Mark Tipping  (Offshore Technology Manager, [Lloyds Register Group](https://www.lr.org/en/)): Regulation and verification in offshore Oil&Gas and wind
   - Andrew White [ONR, RAIN]: Context: Nuclear Regulation
   - Hamish MacDonald, (Engineer, [Offshore Renewable Energy Catapult](https://ore.catapult.org.uk/)): Testing of inspection robotics in offshore wind
-  - [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) (Liverpool John Moores University and [ORCA Hub]({{site.ORCA_HUB_URL}})): Simulation-based Testing (inspection of offshore assets)
+  - [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) ([Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics) and [ORCA Hub]({{site.ORCA_HUB_URL}})): Simulation-based Testing (inspection of offshore assets)
 
   - Q&A:
     - Are current approaches sufficient for remote inspection?
@@ -77,8 +79,9 @@ Session chair: [Youcef Gheraibia](https://pure.york.ac.uk/portal/en/researchers/
 
 * 14:00--16:00: **Session 3: FUTURE and CHALLENGES**  
 Session chair: [Matt Luckcuck](https://www.research.manchester.ac.uk/portal/matthew.luckcuck.html) (University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{ site.RAIN_HUB_URL }}))
+
   * TBC ([Sellafield](https://www.gov.uk/government/organisations/sellafield-ltd))  : Future Nuclear Opportunities
-  - [John McDermid](https://www.cs.york.ac.uk/people/jam) ()[University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}})): Assurance, Cross-sectorial issues
+  - [John McDermid](https://www.cs.york.ac.uk/people/jam) ([University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}})): Assurance, Cross-sectorial issues
   * TBC ([Oil and Gas Authority](https://www.ogauthority.co.uk)) : Offshore Opportunities
   - [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) (University of [Manchester]({{site.UoM_URL}}), [RAIN Hub]({{ site.RAIN_HUB_URL }}), [ORCA Hub]({{site.ORCA_HUB_URL}})) : Problems with Autonomy (and Regulation/Verification)
 
@@ -90,6 +93,6 @@ Session chair: [Matt Luckcuck](https://www.research.manchester.ac.uk/portal/matt
 ## Organisers
 
 * [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) -- University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{ site.RAIN_HUB_URL }})
-* [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) -- Liverpool John Moores University and [ORCA Hub]({{site.ORCA_HUB_URL}})
+* [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) -- [Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics) and [ORCA Hub]({{site.ORCA_HUB_URL}})
 * [Youcef Ggheraibia](https://pure.york.ac.uk/portal/en/researchers/youcef-gheraibia(4ef9b33f-1555-4612-8e7b-c0f72be0fb0f).html) -- [University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}})
 * [Matt Luckcuck](https://www.research.manchester.ac.uk/portal/matthew.luckcuck.html) -- University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{ site.RAIN_HUB_URL }})
