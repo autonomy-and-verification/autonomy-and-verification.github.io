@@ -34,7 +34,7 @@ date : 2021-01-13
 
 ## Workshop
 
-Robots and autonomous systems are increasingly used for remote inspection of various installations, from offshore wind farms to nuclear decommissioning sites, industrial plants, and disaster areas. Such systems are particularly useful for [dull, dirty, dangerous, dear](https://www.forbes.com/sites/bernardmarr/2017/10/16/the-4-ds-of-robotization-dull-dirty-dangerous-and-dear/), delicate, and difficult (6D) scenarios, and are frequently safety- and mission-critical. Consequentially, verification and regulation are essential to ensure safe and reliable operations.
+Robots and autonomous systems are increasingly used for remote inspection of various installations, from offshore wind farms to nuclear decommissioning sites, industrial plants, and disaster areas. Such systems are particularly useful for [dull, dirty, dangerous, dear](https://www.forbes.com/sites/bernardmarr/2017/10/16/the-4-ds-of-robotization-dull-dirty-dangerous-and-dear/), delicate, and difficult (6D) scenarios, and are frequently safety- and mission-critical. Consequently, verification and regulation are essential to ensure safe and reliable operations.
 
 This workshop brings together key stakeholders interested in the verification and regulation challenges faced when using robotic systems for remote inspection. The workshop is divided into three sessions covering: Applications, Regulation and Verification, and Future Challenges. Each session will have talks and a Q&A session, to further dig into the details of the regulation and verification challenges. A variety of speakers, from industry, regulatory organisations, and academia, will present the latest developments from their fields.
 
