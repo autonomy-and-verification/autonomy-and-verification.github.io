@@ -82,7 +82,7 @@ Session chair: [Youcef Gheraibia](https://pure.york.ac.uk/portal/en/researchers/
 * 13:30--14:00: **Break**
 
 * 14:00--16:00: **Session 3: FUTURE and CHALLENGES**  
-Session chair: [Matt Luckcuck](https://www.research.manchester.ac.uk/portal/matthew.luckcuck.html) (University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{ site.RAIN_HUB_URL }}))
+Session chair: [Matt Luckcuck](https://www.research.manchester.ac.uk/portal/matthew.luckcuck.html) (University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{site.RAIN_HUB_URL}}))
 
   - [Chris Ballard](https://uk.linkedin.com/in/chris-ballard-8aba9040) ([Sellafield](https://www.gov.uk/government/organisations/sellafield-ltd)): Future Nuclear Opportunities
   - [John McDermid](https://www.cs.york.ac.uk/people/jam) ([University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}})): Assurance, Cross-sectorial issues
