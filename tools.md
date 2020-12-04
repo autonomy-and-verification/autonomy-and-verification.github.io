@@ -3,7 +3,7 @@ layout: page
 title: Tools
 ---
 
-[Members](/members) of the network have produced a variety of software tools related to the verification of autonomous systems.
+[Members](/members) of the network have produced a variety of software tools related to the verification of autonomous systems. 
 
 The list below gives a short description of each tool. Click "More Details" for the tool's page.
 
