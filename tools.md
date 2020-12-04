@@ -12,7 +12,7 @@ The list below gives a short description of each tool. Click "More Details" for 
 {% for i in (1..rows) %}
 <article class="row">
  {% assign offset = forloop.index0 | times: 2 %}
-   {% for tool in site.tools limit:2 offset:offset %}
+   {% for tool in site.tools limit:2 offset:offset % }
       <section class="columns large-6">
           <a href="{{ site.url }}{{ tool.url }}">
           <h3> {{tool.title}}</h3>
