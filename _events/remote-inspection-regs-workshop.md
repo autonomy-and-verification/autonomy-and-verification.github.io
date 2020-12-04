@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Verification and Regulatory Issues for Remote Robotic Inspection
+title: "Workshop on Verification and Regulatory Issues for Remote Robotic Inspection"
 
 permalink: /events/ri-regs
 date : 2021-01-13
