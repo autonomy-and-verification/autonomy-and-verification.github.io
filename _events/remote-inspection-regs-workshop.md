@@ -44,7 +44,7 @@ This workshop brings together key stakeholders interested in the verification an
 
 ## Registration
 
-Registration for the workshop is *free* and available via our [eventbrite page](https://www.eventbrite.co.uk/e/verification-and-regulatory-issues-for-remote-robotic-inspection-tickets-130767654575)
+Registration for the workshop is *free* and available via our [eventbrite page](https://vandr4ri.eventbrite.co.uk)
 
 ## Draft Programme
 
