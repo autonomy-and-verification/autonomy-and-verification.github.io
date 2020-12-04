@@ -3,11 +3,13 @@
 
 - title: "Members"
   href: "/members"
-  
+
 - title: "Activities"
   subcategories:
   - subtitle: "Events"
     subhref: "/events"
+  - subtitle: "Tools"
+    subhref: "/tools"
   - subtitle: "Projects"
     subhref: "/projects"
   - subtitle: "Videos"
