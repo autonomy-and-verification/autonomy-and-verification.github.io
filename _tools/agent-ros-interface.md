@@ -13,8 +13,6 @@ Robotic applications in industry are generally hard to formally verify due to th
 
 Collaboration opportunities include using the tool publicly available and providing complex use cases that can further push and improve our tool.
 
-Source code is available [here](https://github.com/autonomy-and-verification-uol/gwendolen-rosbridge).
-
 ## Links
 [ROS-A GitHub](https://github.com/autonomy-and-verification-uol/gwendolen-rosbridge)<i class="fas fa-external-link-alt"></i>
 [ROS-A TurtleBot Example](https://github.com/autonomy-and-verification-uol/gwendolen-ros-turtlebot3)<i class="fas fa-external-link-alt"></i>
