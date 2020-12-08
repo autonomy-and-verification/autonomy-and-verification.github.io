@@ -86,7 +86,7 @@ Session chair: [Matt Luckcuck](https://www.research.manchester.ac.uk/portal/matt
 
   - [Chris Ballard](https://uk.linkedin.com/in/chris-ballard-8aba9040) ([Sellafield](https://www.gov.uk/government/organisations/sellafield-ltd)): Future Nuclear Opportunities
   - [John McDermid](https://www.cs.york.ac.uk/people/jam) ([University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}})): Assurance, Cross-sectorial issues
-  * TBC ([Oil and Gas Authority](https://www.ogauthority.co.uk)) : Offshore Opportunities
+  * Dave MacKinnon [Technology Leadership Board](http://www.the-tlb.com/Working-at-the-TLB.html) : Offshore Opportunities
   - [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) (University of [Manchester]({{site.UoM_URL}}), [RAIN Hub]({{site.RAIN_HUB_URL}}), [ORCA Hub]({{site.ORCA_HUB_URL}})): Problems with Autonomy (and Regulation/Verification)
 
   - Q&A:
