@@ -54,7 +54,7 @@ Registration for the workshop is *free* and available via our [eventbrite page](
 Session Chair: [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) ([Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics) and [ORCA Hub]({{site.ORCA_HUB_URL}}))
 
   - [Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) (University of Oxford, [RAIN Hub]({{ site.RAIN_HUB_URL }})): Remote inspection of nuclear assets
-  - Frank van Bockel (Head of New Product Development, Business Assurance & Inspection Services, Lloyds Register Group): Remote inspection and survey in industry and maritime sectors
+  - Frank van Bockel (Head of New Product Development, Business Assurance & Inspection Services, [Lloyds Register Group](https://www.lr.org/en/)): Remote inspection and survey in industry and maritime sectors
   - [Rob Richardson](https://eps.leeds.ac.uk/mechanical-engineering/staff/173/professor-robert-richardson) (University of Leeds, [UK-RAS](https://www.ukras.org/)): Remote urban inspection
   - [Kris Kydd](https://www.linkedin.com/in/kris-kydd-meng-ceng-miet-3a205942) (Robotics Lead, Total E&P UK Limited): Remote inspection of Oil&Gas facilities
 
@@ -69,7 +69,7 @@ Session Chair: [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/fac
 Session chair: [Youcef Gheraibia](https://pure.york.ac.uk/portal/en/researchers/youcef-gheraibia(4ef9b33f-1555-4612-8e7b-c0f72be0fb0f).html) ([University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}}))
 
   - Mark Tipping  (Offshore Technology Manager, [Lloyds Register Group](https://www.lr.org/en/)): Regulation and verification in offshore Oil&Gas and wind
-  - Andrew White [ONR, RAIN]: Context: Nuclear Regulation
+  - Andrew White ([Office for Nuclear Regulation](http://www.onr.org.uk/)): Nuclear Regulation
   - Hamish MacDonald, (Engineer, [Offshore Renewable Energy Catapult](https://ore.catapult.org.uk/)): Testing of inspection robotics in offshore wind
   - [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) ([Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics) and [ORCA Hub]({{site.ORCA_HUB_URL}})): Simulation-based Testing (inspection of offshore assets)
 
