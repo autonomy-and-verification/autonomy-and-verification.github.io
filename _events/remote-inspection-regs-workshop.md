@@ -77,14 +77,14 @@ Session chair: [Youcef Gheraibia](https://pure.york.ac.uk/portal/en/researchers/
     - Are current approaches sufficient for remote inspection?
     - If not, what steps do we need to take?
     - And who needs to take them? Academia? Industry? Regulators?
-   
+
 
 * 13:30--14:00: **Break**
 
 * 14:00--16:00: **Session 3: FUTURE and CHALLENGES**  
 Session chair: [Matt Luckcuck](https://www.research.manchester.ac.uk/portal/matthew.luckcuck.html) (University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{site.RAIN_HUB_URL}}))
 
-  - [Chris Ballard](https://uk.linkedin.com/in/chris-ballard-8aba9040) ([Sellafield](https://www.gov.uk/government/organisations/sellafield-ltd)): Future Nuclear Opportunities
+  - Melissa Keogh ([Sellafield](https://www.gov.uk/government/organisations/sellafield-ltd)): Future Nuclear Opportunities
   - [John McDermid](https://www.cs.york.ac.uk/people/jam) ([University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}})): Assurance, Cross-sectorial issues
   * Dave MacKinnon [Technology Leadership Board](http://www.the-tlb.com/Working-at-the-TLB.html) : Offshore Opportunities
   - [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) (University of [Manchester]({{site.UoM_URL}}), [RAIN Hub]({{site.RAIN_HUB_URL}}), [ORCA Hub]({{site.ORCA_HUB_URL}})): Problems with Autonomy (and Regulation/Verification)
