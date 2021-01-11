@@ -46,7 +46,7 @@ This workshop brings together key stakeholders interested in the verification an
 
 Registration for the workshop is *free* and available via our [eventbrite page](https://vandr4ri.eventbrite.co.uk)
 
-## Draft Programme
+## Programme
 
 * 09:00: **Introduction**  -- [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) (University of [Manchester]({{site.UoM_URL}}), [RAIN Hub]({{ site.RAIN_HUB_URL }}), [ORCA Hub]({{site.ORCA_HUB_URL}}))
 
