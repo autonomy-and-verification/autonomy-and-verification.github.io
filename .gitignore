@@ -7,4 +7,4 @@ Gemfile.lock
 images/image_optim_cache.yml
 .jekyll-metadata
 .director
-.jekyll-cache
+.jekyll-cache/*
