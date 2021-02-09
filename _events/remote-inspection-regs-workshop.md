@@ -50,7 +50,7 @@ Registration for the workshop is *free* and available via our [eventbrite page](
 
 * 09:00: **Introduction**  -- [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) (University of [Manchester]({{site.UoM_URL}}), [RAIN Hub]({{ site.RAIN_HUB_URL }}), [ORCA Hub]({{site.ORCA_HUB_URL}}))
 
-* 09:10--11:10: **Session 1: APPLICATIONS**   
+* 09:10--11:10: **Session 1: APPLICATIONS**   [Session 1 video](https://video.manchester.ac.uk/faculties/5cdda7385cb8dc1331a91a38e59e8119/7b09921f-63b3-4295-a7cc-f9b77abe0515). 
 Session Chair: [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) ([Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics) and [ORCA Hub]({{site.ORCA_HUB_URL}}))
 
   - [Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) (University of Oxford, [RAIN Hub]({{ site.RAIN_HUB_URL }})): Remote inspection of nuclear assets
@@ -81,7 +81,7 @@ Session chair: [Youcef Gheraibia](https://pure.york.ac.uk/portal/en/researchers/
 
 * 13:30--14:00: **Break**
 
-* 14:00--16:00: **Session 3: FUTURE and CHALLENGES**  
+* 14:00--16:00: **Session 3: FUTURE and CHALLENGES**   [Session 3 video](https://video.manchester.ac.uk/faculties/5cdda7385cb8dc1331a91a38e59e8119/3651a3be-142f-45d4-9d09-200ff072f907)
 Session chair: [Matt Luckcuck](https://www.research.manchester.ac.uk/portal/matthew.luckcuck.html) (University of [Manchester]({{site.UoM_URL}}) and [RAIN Hub]({{site.RAIN_HUB_URL}}))
 
   - Melissa Keogh ([Sellafield](https://www.gov.uk/government/organisations/sellafield-ltd)): Future Nuclear Opportunities
