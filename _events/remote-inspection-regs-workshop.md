@@ -72,7 +72,7 @@ Session chair: [Youcef Gheraibia](https://pure.york.ac.uk/portal/en/researchers/
   - Andrew White ([Office for Nuclear Regulation](http://www.onr.org.uk/)): Nuclear Regulation
   - Hamish MacDonald, (Engineer, [Offshore Renewable Energy Catapult](https://ore.catapult.org.uk/)): Testing of inspection robotics in offshore wind
   - [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) ([Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics) and [ORCA Hub]({{site.ORCA_HUB_URL}})): Simulation-based Testing (inspection of offshore assets)
-
+ 
   - Q&A:
     - Are current approaches sufficient for remote inspection?
     - If not, what steps do we need to take?
