@@ -65,7 +65,7 @@ Session Chair: [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/fac
 
 * 11:10--11:30: **Break**
 
-* 11:30--13:30: **Session 2: REGULATION and VERIFICATION**  -- [Session 2 video](https://video.manchester.ac.uk/faculties/5cdda7385cb8dc1331a91a38e59e8119/8867d79c-fb2e-4794-bb18-5912188c2d94).    
+* 11:30--13:30: **Session 2: REGULATION and VERIFICATION**  -- [Session 2 video](https://video.manchester.ac.uk/faculties/5cdda7385cb8dc1331a91a38e59e8119/8867d79c-fb2e-4794-bb18-5912188c2d94).  
 Session chair: [Youcef Gheraibia](https://pure.york.ac.uk/portal/en/researchers/youcef-gheraibia(4ef9b33f-1555-4612-8e7b-c0f72be0fb0f).html) ([University of York]({{site.UoY_URL}}) and [AAIP]({{site.AA_URL}}))
 
   - Mark Tipping  (Offshore Technology Manager, [Lloyds Register Group](https://www.lr.org/en/)): Regulation and verification in offshore Oil&Gas and wind
