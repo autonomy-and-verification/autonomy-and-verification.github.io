@@ -42,9 +42,15 @@ Robots and autonomous systems are increasingly used for remote inspection of var
 
 This workshop brings together key stakeholders interested in the verification and regulation challenges faced when using robotic systems for remote inspection. The workshop is divided into three sessions covering: Applications, Regulation and Verification, and Future Challenges. Each session will have talks and a Q&A session, to further explore the details of the regulation and verification challenges. A variety of speakers, from industry, regulatory organisations, and academia, will present the latest developments from their fields.
 
-## Presentations
+## Presentations and Videos
 
 The presentations from the workshop are available individually in the [Programme](#programme) below, or they may be downloaded as a <a href="{{site.url}}/files/ri-regs/Verification and Regulatory Issues for Remote Robotic Inspection Workshop Presentations.zip" download="" > zip file</a>(30.3MB).
+
+The videos of the each session are available individually in the [Programme](#programme) below, or can be accessed directly here:
+* [Session 1 video](https://video.manchester.ac.uk/faculties/5cdda7385cb8dc1331a91a38e59e8119/7b09921f-63b3-4295-a7cc-f9b77abe0515)
+* [Session 2 video](https://video.manchester.ac.uk/faculties/5cdda7385cb8dc1331a91a38e59e8119/8867d79c-fb2e-4794-bb18-5912188c2d94)
+* [Session 3 video](https://video.manchester.ac.uk/faculties/5cdda7385cb8dc1331a91a38e59e8119/3651a3be-142f-45d4-9d09-200ff072f907)
+
 
 ## Programme
 
