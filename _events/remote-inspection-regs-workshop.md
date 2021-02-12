@@ -48,22 +48,14 @@ The presentations from the workshop are available individually in the [Programme
 
 ## Programme
 
-<<<<<<< HEAD
-* 09:00: **Introduction**  -- [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) (University of [Manchester]({{site.UoM_URL}}), [RAIN Hub]({{site.RAIN_HUB_URL}}), [ORCA Hub]({{site.ORCA_HUB_URL}}))
-=======
 * 09:00: **Introduction**  -- [Michael Fisher](https://web.cs.manchester.ac.uk/~michael) (University of [Manchester]({{site.UoM_URL}}), [RAIN Hub]({{ site.RAIN_HUB_URL }}), [ORCA Hub]({{site.ORCA_HUB_URL}}))
 	- Download: <a href="{{site.url}}/files/ri-regs/Michael_Fisher_RI-Workshop-Intro.pdf" download="" > <button type="button" > Slides </button></a>
->>>>>>> ri-regs
 
 * 09:10--11:10: **Session 1: APPLICATIONS**  -- [Session 1 video](https://video.manchester.ac.uk/faculties/5cdda7385cb8dc1331a91a38e59e8119/7b09921f-63b3-4295-a7cc-f9b77abe0515).  
 Session Chair: [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) ([Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics) and [ORCA Hub]({{site.ORCA_HUB_URL}}))
 
-<<<<<<< HEAD
-  - [Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) (University of Oxford, [RAIN Hub]({{site.RAIN_HUB_URL}})): Remote inspection of nuclear assets
-=======
   - [Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) (University of Oxford, [RAIN Hub]({{ site.RAIN_HUB_URL }})): Remote inspection of nuclear assets
     - Download: <a href="{{site.url}}/files/ri-regs/session_1_applications/Nick_Hawes_rainx-use-of-robotics.pdf" download="" > <button type="button" > Slides </button></a>
->>>>>>> ri-regs
   - Frank van Bockel (Head of New Product Development, Business Assurance & Inspection Services, [Lloyds Register Group](https://www.lr.org/en/)): Remote inspection and survey in industry and maritime sectors
     - Download: <a href="{{site.url}}/files/ri-regs/session_1_applications/Frank_vanBockel_ inspection of the future.pdf" download="" > <button type="button" > Slides </button></a>
   - [Rob Richardson](https://eps.leeds.ac.uk/mechanical-engineering/staff/173/professor-robert-richardson) (University of Leeds, [UK-RAS](https://www.ukras.org/)): Remote urban inspection
@@ -71,7 +63,7 @@ Session Chair: [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/fac
   - [Kris Kydd](https://www.linkedin.com/in/kris-kydd-meng-ceng-miet-3a205942) (Robotics Lead, Total E&P UK Limited): Remote inspection of Oil&Gas facilities
     - Download: <a href="{{site.url}}/files/ri-regs/session_1_applications/Kris_Kydd_Verification Regulation Workshop.pdf" download="" > <button type="button" > Slides </button></a>
 
-  - Q&A: 
+  - Q&A:
     - What do you see as the future for remote inspection?
     - What is the biggest barrier to this?
     - Is this barrier technical or regulatory?
@@ -88,12 +80,8 @@ Session chair: [Youcef Gheraibia](https://pure.york.ac.uk/portal/en/researchers/
   - Hamish MacDonald, (Engineer, [Offshore Renewable Energy Catapult](https://ore.catapult.org.uk/)): Testing of inspection robotics in offshore wind
       - Download: <a href="{{site.url}}/files/ri-regs/session_2_regulation_and_verification/Hamish_MacDonald_Testing of Inspection Robotics in Offshore Wind2021.pdf" download="" > <button type="button" > Slides </button></a>
   - [Matt Webster](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/matt-webster) ([Liverpool John Moores University](https://www.ljmu.ac.uk/about-us/faculties/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics) and [ORCA Hub]({{site.ORCA_HUB_URL}})): Simulation-based Testing (inspection of offshore assets)
-<<<<<<< HEAD
- 
-=======
       - Download: <a href="{{site.url}}/files/ri-regs/session_2_regulation_and_verification/Matt_Webster_ RI_Regs_Workshop-Jan2021.pdf" download="" > <button type="button" > Slides </button></a>
 
->>>>>>> ri-regs
   - Q&A:
     - Are current approaches sufficient for remote inspection?
     - If not, what steps do we need to take?
