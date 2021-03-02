@@ -2,6 +2,8 @@
 layout: event
 title: "Workshop on Formal Methods for Autonomous Systems (FMAS)"
 series : true
+redirect_to:
+  - https://fmasworkshop.github.io/
 ---
 <img alt="FMAS Workshop Logo" style="float: left; margin: 1em" src="{{site.images}}logos/FMAS-Logo.png">
 

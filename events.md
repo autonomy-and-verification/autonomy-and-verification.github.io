@@ -19,7 +19,7 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
         </li>
         {% elsif event.series != true %}
         <li>
-          [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ site.url }}{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
+          [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
         </li>
        {% endif%}
       {% endif %}
@@ -39,7 +39,7 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
     </li>
     {% elsif event.series != true %}
     <li>
-      [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ site.url }}{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
+      [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
     </li>
    {% endif%}
   {% endif %}
