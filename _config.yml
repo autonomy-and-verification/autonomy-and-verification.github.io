@@ -50,13 +50,6 @@ collections:
 
 permalink: /blog/:year/:title
 
-gems:
-  - jekyll-redirect-from
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-redirect-from
-
 address:
   - line:
 
