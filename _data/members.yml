@@ -17,14 +17,6 @@ CurrentMembers:
         website: "https://www.research.manchester.ac.uk/portal/clare.dixon.html"
         orcid: "https://orcid.org/0000-0002-4610-9533"
 
-      - name : "Dr Marie Farrell"
-        website: "https://cgi.csc.liv.ac.uk/~marie/"
-        orcid: "https://orcid.org/0000-0001-7708-3877"
-
-      - name : "Dr Angelo Ferrando"
-        website: "https://angeloferrando.github.io/website/"
-        orcid: "https://orcid.org/0000-0002-8711-4670"
-
       - name : "Prof. Michael Fisher"
         website: "https://personalpages.manchester.ac.uk/staff/michael.fisher/"
         orcid: "https://orcid.org/0000-0002-0875-3862"
@@ -32,10 +24,6 @@ CurrentMembers:
       - name : "Dr Georgios Kourtis"
         website: "https://www.liverpool.ac.uk/computer-science/staff/georgios-kourtis"
         orcid : "https://orcid.org/0000-0001-9635-0643"
-
-      - name : "Dr Matt Luckcuck"
-        website: "https://www.mluckcuck.github.io/"
-        orcid: "https://orcid.org/0000-0002-6444-9312"
         
       - name : "Peter Stringer"
         website: "https://peterwstringer.com/"
@@ -45,6 +33,7 @@ CurrentMembers:
     MembersList :
       - name : "Dr Fabio Papacchini"
         website: "http://cgi.csc.liv.ac.uk/~papacchf/"
+        orcid: "https://orcid.org/0000-0002-0310-7378"
 
   - Institute : "Liverpool John Moores University"
     MembersList :
@@ -57,8 +46,23 @@ CurrentMembers:
       - name : "Dr Sven Linker"
         website: "http://cgi.csc.liv.ac.uk/~slk"
         orcid: "https://orcid.org/0000-0003-2913-7943"
+        
+  - Institute : "Maynooth University"
+    MembersList :
+      - name : "Dr Marie Farrell"
+        website: "https://cgi.csc.liv.ac.uk/~marie/"
+        orcid: "https://orcid.org/0000-0001-7708-3877"
+        
+      - name : "Dr Matt Luckcuck"
+        website: "https://www.mluckcuck.github.io/"
+        orcid: "https://orcid.org/0000-0002-6444-9312"
+        
+  - Institute : "University of Genoa"
+    MembersList :
+      - name : "Dr Angelo Ferrando"
+        website: "https://angeloferrando.github.io/website/"
+        orcid: "https://orcid.org/0000-0002-8711-4670"
     
-
 AffiliatedMembers:
   - Institute: "Virtual Engineering Centre"
     MembersList:
