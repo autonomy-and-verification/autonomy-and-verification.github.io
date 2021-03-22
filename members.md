@@ -8,7 +8,7 @@ title: Members
 
 <h2>Current Members</h2>
 
-{% for institute in site.data.members.CurrentMembers %}
+{% for institute in site.data.members.CurrentMembers %} 
   <h3>{{ institute.Institute }}</h3>
   <ul>
   {% for member in institute.MembersList %}
