@@ -5,7 +5,7 @@ CurrentMembers:
         website: "https://rafaelcaue.github.io/"
         orcid: "https://orcid.org/0000-0001-6666-6954"
 
-      - name : "Dr Emily Collins"
+      - name : "Dr Emily C. Collins"
         website: "https://www.liverpool.ac.uk/computer-science/staff/emily-collins/"
         orcid : "https://orcid.org/0000-0001-9396-536X"
 
@@ -50,11 +50,11 @@ CurrentMembers:
   - Institute : "Maynooth University"
     MembersList :
       - name : "Dr Marie Farrell"
-        website: "https://cgi.csc.liv.ac.uk/~marie/"
+        website: "https://mariefarrell.github.io/"
         orcid: "https://orcid.org/0000-0001-7708-3877"
         
       - name : "Dr Matt Luckcuck"
-        website: "https://www.mluckcuck.github.io/"
+        website: "https://mluckcuck.github.io/"
         orcid: "https://orcid.org/0000-0002-6444-9312"
         
   - Institute : "University of Genova"
@@ -93,7 +93,6 @@ AffiliatedMembers:
 
 PreviousMembers:
   - name : "Dr Elisa Cucco"
-    website: "https://www.liverpool.ac.uk/computer-science/staff/elisa-cucco/publications/"
 
   - name : "Dr Maryam Kamali"
     orcid : "https://orcid.org/0000-0002-2789-6914"
