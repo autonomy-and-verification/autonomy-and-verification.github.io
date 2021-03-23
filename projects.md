@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Projects
@@ -13,10 +14,14 @@ The current research projects the the Autonomy and Verification Network is invol
 <article class="row">
  {% assign offset = forloop.index0 | times: 2 %}
    {% for project in site.projects limit:2 offset:offset %}
-      <section class="columns large-6">
-
+      <section class="columns large-5" style="margin:15px">
           <h3> {{project.title}}</h3>
           <br>
+          <div style="display: grid; justify-content: center;">
+          <img alt="{{project.title}} Logo"   
+               src="{{project.image}}" style="height:180px">
+          </div>
+
           {{project.content}}
 
       </section>     
@@ -44,3 +49,4 @@ The current research projects the the Autonomy and Verification Network is invol
    {% endfor %}   
 </article>
 {% endfor %}
+  
