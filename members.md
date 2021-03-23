@@ -29,7 +29,7 @@ title: Members
 {% endfor %}
 
 </section>
-
+<br>
 
 <section class="row">
 
@@ -56,12 +56,10 @@ title: Members
   </section>
 {% endfor %}
 </section>
-
+<br>
 
 <section class="row">
 <h2> Previous Members </h2>
-
-
 <ul>
 {% for member in site.data.members.PreviousMembers %}   
   <li>
