@@ -8,8 +8,9 @@ title: Members
 
 {% for institute in site.data.members.CurrentMembers %}
   <section class="small-5 medium-4 columns">
-  <h3>{{ institute.Institute }}</h3>
-  <ul>
+  <h3 style="text-decoration: underline;">{{ institute.Institute }}</h3>
+  <div class="shaded_box">
+  <ul >
   {% for member in institute.MembersList %}
   <li>
   {% if member.website != null %}
@@ -23,6 +24,7 @@ title: Members
   </li>
   {% endfor %}
   </ul>
+  </div>
   </section>
 {% endfor %}
 
@@ -34,7 +36,8 @@ title: Members
 <h2> Affiliated Members </h2>
 {% for institute in site.data.members.AffiliatedMembers %}
   <section class="small-5 medium-4 columns">
-  <h3>{{ institute.Institute }}</h3>
+  <h3 style="text-decoration: underline;">{{ institute.Institute }}</h3>
+  <div class="shaded_box">
   <ul>
   {% for member in institute.MembersList %}
     <li>
@@ -49,17 +52,18 @@ title: Members
     </li>
   {% endfor %}
   </ul>
+  </div>
   </section>
 {% endfor %}
 </section>
 
 
 <section class="row">
-
 <h2> Previous Members </h2>
-<section>
+
+
 <ul>
-{% for member in site.data.members.PreviousMembers %}  
+{% for member in site.data.members.PreviousMembers %}   
   <li>
   {% if member.website != null %}
     <a href="{{ member.website }}">{{ member.name }}</a>
@@ -72,6 +76,5 @@ title: Members
   </li>
 {% endfor %}
 </ul>
-</section>
 
 </section>

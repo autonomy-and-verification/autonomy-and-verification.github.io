@@ -28,7 +28,7 @@ CurrentMembers:
       - name : "Peter Stringer"
         website: "https://peterwstringer.com/"
         orcid: "https://orcid.org/0000-0002-8760-4717"
-        
+
   - Institute : "Maynooth University"
     MembersList :
       - name : "Dr Marie Farrell"
@@ -64,6 +64,20 @@ CurrentMembers:
         orcid: "https://orcid.org/0000-0002-8711-4670"
 
 AffiliatedMembers:
+  - Institute : "Department of Computer Science, University of Liverpool"
+    MembersList:
+      - name : "Dr Alexei Lisitsa"
+        website : "http://cgi.csc.liv.ac.uk/~alexei/"
+
+      - name : "Dr Xiaowei Huang"
+        website : "https://cgi.csc.liv.ac.uk/~xiaowei/"
+        orcid : "https://orcid.org/0000-0001-6267-0366"
+
+      - name : "Dr Shan Luo"
+        website : "https://cgi.csc.liv.ac.uk/~shanluo/"
+        orcid : "https://orcid.org/0000-0003-4760-0372"
+
+
   - Institute: "Virtual Engineering Centre"
     MembersList:
       - name : "Dr Konstantin Vikhorev"
@@ -77,18 +91,6 @@ AffiliatedMembers:
 
       - name : "Dr Vince Page"
 
-  - Institute : "Department of Computer Science, University of Liverpool"
-    MembersList:
-      - name : "Dr Alexei Lisitsa"
-        website : "http://cgi.csc.liv.ac.uk/~alexei/"
-
-      - name : "Dr Xiaowei Huang"
-        website : "https://cgi.csc.liv.ac.uk/~xiaowei/"
-        orcid : "https://orcid.org/0000-0001-6267-0366"
-
-      - name : "Dr Shan Luo"
-        website : "https://cgi.csc.liv.ac.uk/~shanluo/"
-        orcid : "https://orcid.org/0000-0003-4760-0372"
 
 
 PreviousMembers:
