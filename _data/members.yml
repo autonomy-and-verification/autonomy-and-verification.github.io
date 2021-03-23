@@ -1,5 +1,5 @@
 CurrentMembers:
-  - Institute: "The University of Manchester"
+  - Institute: "University of Manchester"
     MembersList:
       - name : "Dr Rafael C. Cardoso"
         website: "https://rafaelcaue.github.io/"
@@ -24,10 +24,20 @@ CurrentMembers:
       - name : "Dr Georgios Kourtis"
         website: "https://www.liverpool.ac.uk/computer-science/staff/georgios-kourtis"
         orcid : "https://orcid.org/0000-0001-9635-0643"
-        
+
       - name : "Peter Stringer"
         website: "https://peterwstringer.com/"
         orcid: "https://orcid.org/0000-0002-8760-4717"
+        
+  - Institute : "Maynooth University"
+    MembersList :
+      - name : "Dr Marie Farrell"
+        website: "https://mariefarrell.github.io/"
+        orcid: "https://orcid.org/0000-0001-7708-3877"
+
+      - name : "Dr Matt Luckcuck"
+        website: "https://mluckcuck.github.io/"
+        orcid: "https://orcid.org/0000-0002-6444-9312"
 
   - Institute : "University of Liverpool"
     MembersList :
@@ -46,23 +56,13 @@ CurrentMembers:
       - name : "Dr Sven Linker"
         website: "http://cgi.csc.liv.ac.uk/~slk"
         orcid: "https://orcid.org/0000-0003-2913-7943"
-        
-  - Institute : "Maynooth University"
-    MembersList :
-      - name : "Dr Marie Farrell"
-        website: "https://mariefarrell.github.io/"
-        orcid: "https://orcid.org/0000-0001-7708-3877"
-        
-      - name : "Dr Matt Luckcuck"
-        website: "https://mluckcuck.github.io/"
-        orcid: "https://orcid.org/0000-0002-6444-9312"
-        
+
   - Institute : "University of Genova"
     MembersList :
       - name : "Dr Angelo Ferrando"
         website: "https://angeloferrando.github.io/website/"
         orcid: "https://orcid.org/0000-0002-8711-4670"
-    
+
 AffiliatedMembers:
   - Institute: "Virtual Engineering Centre"
     MembersList:
@@ -89,12 +89,12 @@ AffiliatedMembers:
       - name : "Dr Shan Luo"
         website : "https://cgi.csc.liv.ac.uk/~shanluo/"
         orcid : "https://orcid.org/0000-0003-4760-0372"
-        
+
 
 PreviousMembers:
   - name : "Dr Elisa Cucco"
 
   - name : "Dr Maryam Kamali"
     orcid : "https://orcid.org/0000-0002-2789-6914"
-    
+
   - name : "Dr Charles Patchett"
