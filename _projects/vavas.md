@@ -1,5 +1,6 @@
 ---
 title : Verification and Validation of Autonomous Systems
+image : /images/project-images/vavas.png
 ---
 
 <a href="https://vavas.org/"> <img alt="Verification and Validation of Autonomous Systems Network Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/vavas.png"></a>

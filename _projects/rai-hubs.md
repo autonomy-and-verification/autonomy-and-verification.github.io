@@ -1,5 +1,6 @@
 ---
 title : Robotics and AI Hubs
+image : /images/project-images/rain-b-logo.png
 ---
 
 <article class="row">
