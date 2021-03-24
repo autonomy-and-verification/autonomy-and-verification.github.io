@@ -19,10 +19,8 @@ The list below gives a short description of each tool. Click "More Details" for 
         <div style="margin:0 25px">
           <a href="{{ tool.url }}"><h3>{{tool.title}}</h3></a>
           <h4> {{tool.author}} </h4>
-
-
         <p>{{tool.blurb}}</p>
-        <p><a href="{{ site.url }}{{ tool.url }}">More Details</a></p>
+        <p><a href="{{ tool.url }}">More Details</a></p>
         </div>
         </div>
       </section>       
