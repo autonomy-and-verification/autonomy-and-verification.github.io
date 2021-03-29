@@ -17,10 +17,7 @@ images: "https://autonomy-and-verification.github.io/images/"
 
 
 header: no
-header_sm: images/ashton-small.png
-header_med: images/ashton-med.png
-header_large: images/ashton-large.png
-header_xl: images/ashton-xl-desat.png
+
 
 include: [_events]
 
@@ -61,7 +58,7 @@ google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
 # Twitter Cards
 twitter_user: AandVNetwork
 twitter_card: true
-twitter_image: https://autonomy-and-verification.github.io/images/ashton-home.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_image: https://autonomy-and-verification.github.io/images/images/avnetwork.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Usernames for things
 researchgate_username: Autonomy-and-Verification-Lab-Michael-Fisher
