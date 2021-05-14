@@ -17,6 +17,7 @@ The Model Checking Agent Programming Language (MCAPL) framework is a suite of to
 
 ### Descriptions of (Aspects of) the MCAPL Framework, AJPF, Gwendolen and their Usage 
 
+* Angelo Ferrando, Louise A. Dennis, Rafael C. Cardoso, Michael Fisher, Davide Ancona and Viviana Mascardi.  [Towards a Holistic Approach to Verification and Validation of Autonomous Cognitive Systems](https://doi.org/10.1145/3447246)<i class="fas fa-external-link-alt"></i>.  ACM Transactions on Software Engineering and Methodology.  30(4).  2021.  
 * Rafael C. Cardoso, Louise A. Dennis and Michael Fisher. [Plan Library Reconfigurability in BDI Agents](https://doi.org/10.1007/978-3-030-51417-4_10)<i class="fas fa-external-link-alt"></i>. In: Dennis L., Bordini R., Lespérance Y. (eds) Engineering Multi-Agent Systems. EMAS 2019. Lecture Notes in Computer Science, vol 12058. Springer, Cham
 * Vincent Koeman, Louise A. Dennis, Matt Webster, Michael Fisher and Koen Hindriks. [The "Why did you do that?" Button: Answering Why-questions for end users of Robotic Systems](https://doi.org/10.1007/978-3-030-51417-4_8)<i class="fas fa-external-link-alt"></i>. In: Dennis L., Bordini R., Lespérance Y. (eds) Engineering Multi-Agent Systems. EMAS 2019. Lecture Notes in Computer Science, vol 12058. Springer, Cham
 * Louise A. Dennis, Michael Fisher, and Matt Webster. [Two-stage agent program verification](http://dx.doi.org/10.1093/logcom/exv002)<i class="fas fa-external-link-alt"></i>. Journal of Logic and Computation, Volume 28, issue 3, pp. 499-523, 2018. DOI: 10.1093/logcom/exv002. 
