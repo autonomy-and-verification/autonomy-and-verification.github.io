@@ -4,6 +4,8 @@ CurrentMembers:
       - name : "Dr Rafael C. Cardoso"
         website: "https://rafaelcaue.github.io/"
         orcid: "https://orcid.org/0000-0001-6666-6954"
+        
+      - name : "Dr Joe Collenette"
 
       - name : "Dr Emily C. Collins"
         website: "https://www.research.manchester.ac.uk/portal/en/researchers/emily-collins(3c6b7f4a-7088-443f-a641-654c99a426e6).html"
@@ -16,6 +18,9 @@ CurrentMembers:
       - name : "Prof. Clare Dixon"
         website: "https://www.research.manchester.ac.uk/portal/clare.dixon.html"
         orcid: "https://orcid.org/0000-0002-4610-9533"
+        
+      - name : "Dr Fatma Faruq"
+        website: "https://fatmaf.github.io/"
 
       - name : "Prof. Michael Fisher"
         website: "https://personalpages.manchester.ac.uk/staff/michael.fisher/"
