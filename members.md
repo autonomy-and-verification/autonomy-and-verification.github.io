@@ -4,7 +4,7 @@ title: Members
 ---
 
 <section class="row">
-  <h2>Current Members</h2>
+  <h2>Current Members</h2> 
 
 {% for institute in site.data.members.CurrentMembers %} 
   <section class="small-5 medium-4 columns">
