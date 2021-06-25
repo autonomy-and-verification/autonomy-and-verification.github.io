@@ -55,7 +55,7 @@ title: Members
   </div>
   </section>
 {% endfor %}
-</section>
+</section> 
 <br>
 
 <section class="row">
