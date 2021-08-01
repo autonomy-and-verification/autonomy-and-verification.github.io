@@ -45,12 +45,6 @@ CurrentMembers:
         website: "https://mluckcuck.github.io/"
         orcid: "https://orcid.org/0000-0002-6444-9312"
 
-  - Institute : "University of Liverpool"
-    MembersList :
-      - name : "Dr Fabio Papacchini"
-        website: "http://cgi.csc.liv.ac.uk/~papacchf/"
-        orcid: "https://orcid.org/0000-0002-0310-7378"
-
   - Institute : "Liverpool John Moores University"
     MembersList :
       - name : "Dr Matt Webster"
@@ -62,6 +56,10 @@ CurrentMembers:
       - name : "Dr Sven Linker"
         website: "http://cgi.csc.liv.ac.uk/~slk"
         orcid: "https://orcid.org/0000-0003-2913-7943"
+        
+      - name : "Dr Fabio Papacchini"
+        website: "http://cgi.csc.liv.ac.uk/~papacchf/"
+        orcid: "https://orcid.org/0000-0002-0310-7378"
 
   - Institute : "University of Genova"
     MembersList :
