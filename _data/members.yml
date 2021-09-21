@@ -34,6 +34,9 @@ CurrentMembers:
       - name : "Peter Stringer"
         website: "https://peterwstringer.com/"
         orcid: "https://orcid.org/0000-0002-8760-4717"
+        
+      - name : "Yifan Xu"
+        website: "https://www.research.manchester.ac.uk/portal/yifan.xu.html"
 
   - Institute : "Maynooth University"
     MembersList :
