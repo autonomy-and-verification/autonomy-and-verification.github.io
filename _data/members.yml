@@ -2,6 +2,7 @@ CurrentMembers:
   - Institute: "University of Manchester"
     MembersList:
       - name : "Dr Christopher Anderson"
+        orcid: "https://orcid.org/0000-0001-7224-8193"
     
       - name : "Dr Rafael C. Cardoso"
         website: "https://rafaelcaue.github.io/"
