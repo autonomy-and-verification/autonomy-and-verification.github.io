@@ -2,9 +2,7 @@
 layout: event
 title: "Workshop on Formal Methods for Autonomous Systems (FMAS)"
 series : true
-redirect_from:
-  - https://fmasworkshop.github.io/
-  externalURL: https://fmasworkshop.github.io/
+externalURL: https://fmasworkshop.github.io/
 
 ---
 
