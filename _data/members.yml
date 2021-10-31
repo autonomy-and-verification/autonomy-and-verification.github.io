@@ -1,15 +1,14 @@
 CurrentMembers:
   - Institute: "University of Manchester"
     MembersList:
+      - name : "Dr Christopher Anderson"
+        orcid: "https://orcid.org/0000-0001-7224-8193"
+    
       - name : "Dr Rafael C. Cardoso"
         website: "https://rafaelcaue.github.io/"
         orcid: "https://orcid.org/0000-0001-6666-6954"
         
       - name : "Dr Joe Collenette"
-
-      - name : "Dr Emily C. Collins"
-        website: "https://www.research.manchester.ac.uk/portal/en/researchers/emily-collins(3c6b7f4a-7088-443f-a641-654c99a426e6).html"
-        orcid : "https://orcid.org/0000-0001-9396-536X"
 
       - name : "Dr Louise Dennis"
         website : "https://personalpages.manchester.ac.uk/staff/louise.dennis/"
@@ -34,6 +33,9 @@ CurrentMembers:
       - name : "Peter Stringer"
         website: "https://peterwstringer.com/"
         orcid: "https://orcid.org/0000-0002-8760-4717"
+        
+      - name : "Yifan Xu"
+        website: "https://www.research.manchester.ac.uk/portal/yifan.xu.html"
 
   - Institute : "Maynooth University"
     MembersList :
@@ -95,7 +97,11 @@ AffiliatedMembers:
 
       - name : "Dr Vince Page"
 
-
+  - Institute : "Institute for Experiential Robotics, Northeastern University"
+    MembersList: 
+      - name : "Dr Emily C. Collins"
+        website: "https://www.nchlondon.ac.uk/faculty/dr-emily-collins/"
+        orcid : "https://orcid.org/0000-0001-9396-536X"
 
 PreviousMembers:
   - name : "Dr Elisa Cucco"
