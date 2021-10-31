@@ -54,6 +54,11 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
 <ul>
   {% for event in site.events  %}
     {% if event.series == true %}
+    {% if event.externalURL and event.externalURL != "" and event.externalURL != nil %}
+    </li>
+      <a href="{{ event.externalURL }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }} <i class="fas fa-external-link-alt"></i>{% endif %}</a>
+    </li>
+    {% else %}
     <li>
        <a href="{{ site.url }}{{ event.url }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }}{% endif %}</a>
     </li>
