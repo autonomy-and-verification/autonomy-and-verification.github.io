@@ -3,11 +3,7 @@ CurrentMembers:
     MembersList:
       - name : "Dr Christopher Anderson"
         orcid: "https://orcid.org/0000-0001-7224-8193"
-    
-      - name : "Dr Rafael C. Cardoso"
-        website: "https://rafaelcaue.github.io/"
-        orcid: "https://orcid.org/0000-0001-6666-6954"
-        
+
       - name : "Dr Joe Collenette"
 
       - name : "Dr Louise Dennis"
@@ -46,6 +42,12 @@ CurrentMembers:
       - name : "Dr Matt Luckcuck"
         website: "https://mluckcuck.github.io/"
         orcid: "https://orcid.org/0000-0002-6444-9312"
+    
+    - Institute : "University of Aberdeen"
+    MembersList :
+      - name : "Dr Rafael C. Cardoso"
+        website: "https://rafaelcaue.github.io/"
+        orcid: "https://orcid.org/0000-0001-6666-6954"
 
   - Institute : "Liverpool John Moores University"
     MembersList :
