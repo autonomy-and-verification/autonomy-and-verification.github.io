@@ -8,7 +8,7 @@ title: Members
 
 {% for institute in site.data.members.CurrentMembers %}  
   <section class="small-5 medium-4 columns">
-  <h3 style="text-decoration: underline;">{{ institute.Institute }}</h3>
+  <h3 style="text-decoration: underline;">{{ institute.Institute }} </h3>
   <div class="shaded_box">
   <ul >
   {% for member in institute.MembersList %}
