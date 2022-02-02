@@ -1,114 +1,114 @@
 CurrentMembers:
   - Institute: "University of Manchester"
     MembersList:
-      - name : "Dr Christopher Anderson"
+      - name: "Dr Christopher Anderson"
         orcid: "https://orcid.org/0000-0001-7224-8193"
 
-      - name : "Dr Joe Collenette"
+      - name: "Dr Joe Collenette"
 
-      - name : "Dr Louise Dennis"
-        website : "https://personalpages.manchester.ac.uk/staff/louise.dennis/"
-        orcid : "https://orcid.org/0000-0003-1426-1896"
+      - name: "Dr Louise Dennis"
+        website: "https://personalpages.manchester.ac.uk/staff/louise.dennis/"
+        orcid: "https://orcid.org/0000-0003-1426-1896"
 
-      - name : "Prof. Clare Dixon"
+      - name: "Prof. Clare Dixon"
         website: "https://www.research.manchester.ac.uk/portal/clare.dixon.html"
         orcid: "https://orcid.org/0000-0002-4610-9533"
-        
-      - name : "Dr Fatma Faruq"
+
+      - name: "Dr Fatma Faruq"
         website: "https://fatmaf.github.io/"
         orcid: "https://orcid.org/0000-0001-6928-0176"
 
-      - name : "Prof. Michael Fisher"
+      - name: "Prof. Michael Fisher"
         website: "https://personalpages.manchester.ac.uk/staff/michael.fisher/"
         orcid: "https://orcid.org/0000-0002-0875-3862"
 
-      - name : "Dr Georgios Kourtis"
+      - name: "Dr Georgios Kourtis"
         website: "https://www.liverpool.ac.uk/computer-science/staff/georgios-kourtis"
-        orcid : "https://orcid.org/0000-0001-9635-0643"
+        orcid: "https://orcid.org/0000-0001-9635-0643"
 
-      - name : "Peter Stringer"
+      - name: "Peter Stringer"
         website: "https://peterwstringer.com/"
         orcid: "https://orcid.org/0000-0002-8760-4717"
-        
-      - name : "Yifan Xu"
+
+      - name: "Yifan Xu"
         website: "https://www.research.manchester.ac.uk/portal/yifan.xu.html"
 
-  - Institute : "Maynooth University"
+  - Institute: "Maynooth University"
     MembersList :
-      - name : "Dr Marie Farrell"
+      - name: "Dr Marie Farrell"
         website: "https://mariefarrell.github.io/"
         orcid: "https://orcid.org/0000-0001-7708-3877"
 
-      - name : "Dr Matt Luckcuck"
+      - name: "Dr Matt Luckcuck"
         website: "https://mluckcuck.github.io/"
         orcid: "https://orcid.org/0000-0002-6444-9312"
-    
-    - Institute : "University of Aberdeen"
-    MembersList :
-      - name : "Dr Rafael C. Cardoso"
+
+  - Institute: "University of Aberdeen"
+    MembersList:
+      - name: "Dr Rafael C. Cardoso"
         website: "https://rafaelcaue.github.io/"
         orcid: "https://orcid.org/0000-0001-6666-6954"
 
-  - Institute : "Liverpool John Moores University"
-    MembersList :
-      - name : "Dr Matt Webster"
+  - Institute: "Liverpool John Moores University"
+    MembersList:
+      - name: "Dr Matt Webster"
         website: "http://www.csc.liv.ac.uk/~matt"
         orcid: "https://orcid.org/0000-0002-8817-6881"
 
-  - Institute : "Lancaster University Leipzig"
-    MembersList :
-      - name : "Dr Sven Linker"
+  - Institute: "Lancaster University Leipzig"
+    MembersList:
+      - name: "Dr Sven Linker"
         website: "http://cgi.csc.liv.ac.uk/~slk"
         orcid: "https://orcid.org/0000-0003-2913-7943"
-        
-      - name : "Dr Fabio Papacchini"
+
+      - name: "Dr Fabio Papacchini"
         website: "http://cgi.csc.liv.ac.uk/~papacchf/"
         orcid: "https://orcid.org/0000-0002-0310-7378"
 
-  - Institute : "University of Genova"
+  - Institute: "University of Genova"
     MembersList :
-      - name : "Dr Angelo Ferrando"
+      - name: "Dr Angelo Ferrando"
         website: "https://angeloferrando.github.io/website/"
         orcid: "https://orcid.org/0000-0002-8711-4670"
 
 AffiliatedMembers:
-  - Institute : "Department of Computer Science, University of Liverpool"
+  - Institute: "Department of Computer Science, University of Liverpool"
     MembersList:
-      - name : "Dr Alexei Lisitsa"
-        website : "http://cgi.csc.liv.ac.uk/~alexei/"
+      - name: "Dr Alexei Lisitsa"
+        website: "http://cgi.csc.liv.ac.uk/~alexei/"
 
-      - name : "Dr Xiaowei Huang"
-        website : "https://cgi.csc.liv.ac.uk/~xiaowei/"
-        orcid : "https://orcid.org/0000-0001-6267-0366"
+      - name: "Dr Xiaowei Huang"
+        website: "https://cgi.csc.liv.ac.uk/~xiaowei/"
+        orcid: "https://orcid.org/0000-0001-6267-0366"
 
-      - name : "Dr Shan Luo"
-        website : "https://cgi.csc.liv.ac.uk/~shanluo/"
-        orcid : "https://orcid.org/0000-0003-4760-0372"
+      - name: "Dr Shan Luo"
+        website: "https://cgi.csc.liv.ac.uk/~shanluo/"
+        orcid: "https://orcid.org/0000-0003-4760-0372"
 
 
   - Institute: "Virtual Engineering Centre"
     MembersList:
-      - name : "Dr Konstantin Vikhorev"
-        website : "http://www.virtualengineeringcentre.com/about/team/dr-konstantin-vikhorev"
+      - name: "Dr Konstantin Vikhorev"
+        website: "http://www.virtualengineeringcentre.com/about/team/dr-konstantin-vikhorev"
 
-  - Institute : "Department of Engineering, University of Liverpool"
-    MembersList :
-      - name : "Dr Mike Jump"
+  - Institute: "Department of Engineering, University of Liverpool"
+    MembersList:
+      - name: "Dr Mike Jump"
         website: "https://www.liverpool.ac.uk/engineering/staff/michael-jump/"
-        orcid : "https://orcid.org/0000-0002-1028-2334"
+        orcid: "https://orcid.org/0000-0002-1028-2334"
 
-      - name : "Dr Vince Page"
+      - name: "Dr Vince Page"
 
-  - Institute : "Institute for Experiential Robotics, Northeastern University"
-    MembersList: 
-      - name : "Dr Emily C. Collins"
+  - Institute: "Institute for Experiential Robotics, Northeastern University"
+    MembersList:
+      - name: "Dr Emily C. Collins"
         website: "https://www.nchlondon.ac.uk/faculty/dr-emily-collins/"
-        orcid : "https://orcid.org/0000-0001-9396-536X"
+        orcid: "https://orcid.org/0000-0001-9396-536X"
 
 PreviousMembers:
-  - name : "Dr Elisa Cucco"
+  - name: "Dr Elisa Cucco"
 
-  - name : "Dr Maryam Kamali"
-    orcid : "https://orcid.org/0000-0002-2789-6914"
+  - name: "Dr Maryam Kamali"
+    orcid: "https://orcid.org/0000-0002-2789-6914"
 
-  - name : "Dr Charles Patchett"
+  - name: "Dr Charles Patchett"
