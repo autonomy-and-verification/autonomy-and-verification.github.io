@@ -6,7 +6,7 @@ image : /images/project-images/verifiability.jpg
 <a href="https://verifiability.org">
   <img alt="TAS Verifiability Node Logo"
        style="float: left"
-       src="{{site.images}}project-images/verifiability.jpg"></a>
+       src="{{site.images}}project-images/verifiabilitynode-JPG.jpg"></a>
 
 Manchester: [UKRI-funded project](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V026801/1)
 
