@@ -8,4 +8,4 @@ Engineered systems are becoming more complex and, increasingly, more autonomous;
 <p>
 In this multi-disciplinary project we aim to devise a framework for autonomous systems responsibility that is philosophically justifiable, effectively implementable, and practically verifiable. This paves the way for broader philosophical studies, the formal verification of system responsibility, sophisticated explanations and the use of responsibilities as a driver for agent decisions and actions. 
 <p>
-The Computational Agent Responsibility project is part of the broader Trustworthy Autonomous Systems Programme. Further details can be found on the [Computational Agent Responsibility website](https://web.cs.manchester.ac.uk/~michael/Responsibility/) </a>.
+The Computational Agent Responsibility project is part of the broader Trustworthy Autonomous Systems Programme. Further details can be found on the [Computational Agent Responsibility website](https://web.cs.manchester.ac.uk/~michael/Responsibility/).
