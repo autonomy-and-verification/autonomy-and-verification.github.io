@@ -1,0 +1,39 @@
+﻿<!doctype html>
+<html>
+<head>
+<title>Argument: A1.4.3.3.4.4.3.2.1.2.2 - Runtime Monitors and a WDT are implemented</title>
+<link rel="stylesheet" href="main.css" type="text/css">
+<script type="text/javascript" src="node.js"></script>
+<META http-equiv=Content-Type content="text/html;charset=utf-8">
+
+</head>
+<body>
+
+<h2><a name=''></a>Argument A1.4.3.3.4.4.3.2.1.2.2 Runtime Monitors and a WDT are implemented</h2>
+<a href="RAIN Robot operation SC Strawman.htm">[Back to main map]</a>
+<hr noshade="">
+Parent nodes:
+<ul>
+<li>Supports <font color="#00FF00">Argument</font>: <a href="N84792728.htm">A1.4.3.3.4.4.3.2.1.2 The architecture and algorithms have been designed such that the hazard is mitigated</a></li>
+</ul>
+<p>Child nodes:</p>
+<ul>
+<li>Has support <font color="#00FF00">Argument</font>: <a href="N28290158.htm">A1.4.3.3.4.4.3.2.1.2.2.4 Environmental monitor Diverse and independent monitors have been designed to use data from the input domain (sensors) to constrain the robot's capabilities to that of the defined environmental operational envelope by applying identified fail safe states.</a></li>
+<li>Has support <font color="#00FF00">Argument</font>: <a href="N46467012.htm">A1.4.3.3.4.4.3.2.1.2.2.2 Operational Monitor Diverse and independent monitors have been designed to use data from the input (sensors) and output (actuators) domain to constrain the robot's capabilities to that of the defined operational envelope by applying identified fail safe states.</a></li>
+<li>Has support <font color="#00FF00">Argument</font>: <a href="N79193216.htm">A1.4.3.3.4.4.3.2.1.2.2.3 Health Monitor Diverse and independent monitors have been designed to identify excursions from the robot system's 'normal' internal operating health envelope to constrain the robot's capabilities to that of the defined operational envelope by applying identified fail safe states.</a></li>
+<li>Has support <font color="#00FF00">Argument</font>: <a href="N89927576.htm">A1.4.3.3.4.4.3.2.1.2.2.1 Watch Dog Timers (WDT) have been employed to place the the robot in a safe state if the processing freezes</a></li>
+</ul>
+<hr noshade="">
+<p>The Runtime Monitors are implemented&nbsp;using conventional software techniques and verified accordingly.</p>
+<p>The Runtime Monitors are implemented on separate and diverse hardware from that of the symbolic AI, (Intelligent) Collision Sensor, Image Classifier, Conventional Control Algorithms.</p>
+<p>The WDT is hardware based and is patted from the 'main' polling loop forming the scheduler.</p>
+<p>A claim is made here for both.</p>
+<p>&nbsp;</p>
+<p>Possible approaches include:</p>
+<p>1. The COTS software is constrained by a wrapper. The wrapper has been developed according to recognised good practice (RGP) which is commensurate with the classification of this SSC (Production Excellence (PE)). A third party has examined the process and its products to confirm that they are commensurate with the classification of this SSC (Independent Confidence Building Measures (ICBM)).</p>
+<p>2. Independent and diverse software methods, tools, hardware, staff etc.&nbsp;have been used to verify the output of the SSC which is commensurate with the classification of this SIF(PE). A third party has examined the process and its products to confirm that they are commensurate with the classification of this SSC (Independent Confidence Building Measures (ICBM)).</p>
+<p>3. Independent and diverse&nbsp;(and possibly less complex) hardware/software&nbsp;(sensors, decision making etc.)&nbsp;have been used to&nbsp;provide a preventative/mitigative&nbsp;SSC which is commensurate with the classification of this&nbsp;SIF (PE). A third party has examined the process and its products to confirm that they are commensurate with the classification of this SSC (Independent Confidence Building Measures (ICBM)). This could be implemented as an&nbsp;input&nbsp;to a voting system or as outer limits which place the system in to a safe state (failsafe).</p>
+<p>4. Independent and diverse software methods, tools, hardware, staff etc.&nbsp;have been used to verify in RT the output of the SSC which is commensurate with the classification of this&nbsp;SIF (PE).</p>
+<p>&nbsp;</p>
+</body>
+</html>

@@ -1,0 +1,115 @@
+/**
+  ASCE Cascading style sheet
+  Author: Adelard
+*/
+
+/*define basic text for formatted paragraphs*/
+body, table, tr, ul, ol, p, td, th, li, br {
+  color: black;
+  font-size: 10pt;
+  font-family: Verdana, Myriad Web, Syntax, arial, helvetica, sans-serif;
+}
+
+/*display bullets using circle rather than standard filled disc */
+ul { list-style-type: circle;}
+
+/* styles for embedded ASCE links within the same ASCE network */
+a.ASCE-Embedded:link  {background: #dfffdf; color : black;  text-decoration: underline; font-weight : bold}
+a.ASCE-Embedded:visited {background: #dfffdf; color : black;  text-decoration: underline; font-weight : bold}
+a.ASCE-Embedded:active {background: #dfffdf; color: black; text-decoration: underline; font-weight : bold}
+a.ASCE-Embedded:hover {background: #dfffdf; color :  black; text-decoration: underline; font-weight : bold}
+
+
+/* styles for embedded links to files*/
+a.ASCE-File:link  {background: #dfdfdf; color : black;  text-decoration: underline; font-weight : bold}
+a.ASCE-File:visited {background: #dfdfdf; color : black;  text-decoration: underline; font-weight : bold}
+a.ASCE-File:active {background: #dfdfdf; color: black; text-decoration: underline; font-weight : bold}
+a.ASCE-File:hover {background: #dfdfdf; color :  black; text-decoration: underline; font-weight : bold}
+
+
+/* styles for embedded URL links */
+a.ASCE-Url:link  {background: #FFFFdf; color : black;  text-decoration: underline; font-weight : bold}
+a.ASCE-Url:visited {background: #FFFFdf; color : black;  text-decoration: underline; font-weight : bold}
+a.ASCE-Url:active {background: #FFFFdf; color: black; text-decoration: underline; font-weight : bold}
+a.ASCE-Url:hover {background: #FFFFdf; color :  black; text-decoration: underline; font-weight : bold}
+
+/* styles for embedded ASCE-Plugin-links */
+a.ASCE-Plugin-Link:link  {background: #FFdfdf; color : black;  text-decoration: underline; font-weight : bold}
+a.ASCE-Plugin-Link:visited {background: #FFdfdf; color : black;  text-decoration: underline; font-weight : bold}
+a.ASCE-Plugin-Link:active {background: #FFdfdf; color: black; text-decoration: underline; font-weight : bold}
+a.ASCE-Plugin-Link:hover {background: #FFdfdf; color :  black; text-decoration: underline; font-weight : bold}
+
+
+/* other links */
+a:link  { color : #333399;  }
+a:visited { color: Purple; }
+a:active { color: red; background :  #eaeaea;}
+a:hover { background: #eaeaea; color : black; text-decoration: underline}
+
+a:not([href]) {
+    background-color: #fff;
+    text-decoration: none;
+}
+
+
+table.ASCE-Plugin {
+    border: 3px dotted #c0c0c0;
+    width: 100%;
+    padding: 2px;
+    border-collapse: collapse;
+}
+
+span.ASCE-Plugin {
+  border: 1px dotted #c0c0c0;
+  border-collapse: collapse;
+}
+
+/* H1-6 styles */
+H1 {
+  color: #530053;
+  font-family: Tahoma, Verdana, Myriad Web, Syntax, arial, helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.4em;
+  letter-spacing: 1px;
+}
+
+H2 {
+  color: #333399;
+  font-family: Tahoma, Verdana, Myriad Web, Syntax, arial, helvetica, sans-serif;
+  font-size: 1.3em;
+  font-weight: demi-bold;
+}
+
+H3 {
+  color: gray;
+  font-family: Tahoma, Verdana, Myriad Web, Syntax, arial, helvetica, sans-serif;
+  font-size: 1.2em;
+}
+
+H4 {
+    color: #530053;
+    font-family: Tahoma, Verdana, Myriad Web, Syntax, arial, helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+H5 {
+  color: #333399;
+  font-family: Tahoma, Verdana, Myriad Web, Syntax, arial, helvetica, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+H6 {
+    color: gray;
+    font-family: Tahoma, Verdana, Myriad Web, Syntax, arial, helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+DIV.NarativeContainer { height: 300px; overflow-y: scroll; border:1px coral solid; margin-right: 50px}
+.HDNormal { color: #000000; background_color: #ffffff; text-decoration: none }
+.HDDeleted { color: #ff0000; background_color: #ffffff; text-decoration: line-through }
+.HDImgDeleted {  color: #ff0000;background-color: #ff0000}
+.HDAdded { color: #0000ff; background_color: #ffff00; text-decoration: none }
+

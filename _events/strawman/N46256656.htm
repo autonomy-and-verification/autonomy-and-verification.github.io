@@ -1,0 +1,43 @@
+﻿<!doctype html>
+<html>
+<head>
+<title>Other: O1.4.3.3.4.4.3.2.3 - Assumptions</title>
+<link rel="stylesheet" href="main.css" type="text/css">
+<script type="text/javascript" src="node.js"></script>
+<META http-equiv=Content-Type content="text/html;charset=utf-8">
+
+</head>
+<body>
+
+<h2><a name=''></a>Other O1.4.3.3.4.4.3.2.3 Assumptions</h2>
+<a href="RAIN Robot operation SC Strawman.htm">[Back to main map]</a>
+<hr noshade="">
+Parent nodes:
+<ul>
+<li>Supports <font color="#00FF00">Argument</font>: <a href="N47462656.htm">A1.4.3.3.4.4.3.2 Method 2 Using verifiable AI The decision making and avoidance system has been designed, implemented, analysed, tested and shown to adequately mitigate Hazard 1 (Avoidance of collision)</a></li>
+</ul>
+<p>Child nodes:</p>
+<hr noshade="">
+<p>The robot is performing tasks with radiological hazards which are below the onsite and offsite BSL (ONR TAG 094).</p>
+<p>The robot collision avoidance system is composed of:</p>
+<ol>
+<li>Image&nbsp;classification (sub-symbolic AI)&nbsp;which reports potential for a collision - also used for other activities within the robot</li>
+<li>(Intelligent) Collision Sensor&nbsp;which reports potential for a collision - also used for other activities within the robot</li>
+<li>Decision symbolic AI (within the overall robot decision making AI)</li>
+<li>Propeller motor (actuator) control</li>
+</ol>
+<p>Therefore, the (autonomous) control system and its attendant sensors and actuators (items 1 to 4)&nbsp;are part of a SIS of which the collision avoidance is a SIF.</p>
+<p>However, due to the inability to justify the safety of the Image Classifier (1), the&nbsp;(Intelligent) Collision Sensor&nbsp;(2)&nbsp;is used as an&nbsp;additional diverse proximity sensor.</p>
+<p>The limit on the complexity of item 3 encoded in Gwendolen&nbsp;is the length of time to verify;&nbsp;&gt;100,000 states&nbsp;and the verification could take longer than 24 h.&nbsp;To estimate the number of states used,&nbsp;sum the number of incoming predicates (events)&nbsp;needed&nbsp;to be handled&nbsp;with the number of actions appearing in plans and take that sum to the power of 2.&nbsp;e.g. if the number of events plus the number of actions is more than 16 the verification time is likely to be &gt;24 h,&nbsp;unless start&nbsp;structuring the verification environment. The corollary to this limit on complexity is that Gwendolyn AI is constrained to&nbsp;deployments with a small number of&nbsp;less complex decisions. e.g.&nbsp;where it is limited to high level decision making tasks (the case for this robot, where the&nbsp;image classifier&nbsp;(1) is making complex decisions).</p>
+<p align="right">[Louise Dennis, email 26/1/22 to Chris Anderson]</p>
+<p><img src="Hazard 1, Method 2 - Arch.jpg" href="Hazard 1, Method 2 - Arch.jpg"></p>
+<p>The logic in item&nbsp;3 is designed such that the information from item 1 and 2 are used to make a single decision regarding the potential for a collision (1oo2 voting system). In this way the intelligent control system has the option to steer away from the obstacle (by keeping one propeller rotating and reversing the other).</p>
+<p>&nbsp;</p>
+<p>This is described further in <a class="ASCE-Embedded" href="N84792728.htm" subnodeid="" nodeid="N84792728">The architecture and algorithms have been designed such that the hazard is mitigated</a></p>
+<p>NB.</p>
+<ul>
+<li>ONR TAG 046: "the best (minimum) that should be claimed for computer based safety system is 1E-4 (high confidence). A claim of 1E-4 (high confidence) should always be delivered by a SIL 4 system."</li>
+<li>ONR SAP EDR.4 (Single failure criterion): not applicable as the robot will only be deployed below the BSL</li>
+</ul>
+</body>
+</html>

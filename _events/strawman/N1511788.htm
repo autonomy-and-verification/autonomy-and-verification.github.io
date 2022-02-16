@@ -1,0 +1,43 @@
+﻿<!doctype html>
+<html>
+<head>
+<title>Argument: A1.4.3.3.4.4.3.2.1.1.1.1.2.4 - Symbolic AI: Formal methods have been used to provide better assurance than review and informal analyses</title>
+<link rel="stylesheet" href="main.css" type="text/css">
+<script type="text/javascript" src="node.js"></script>
+<META http-equiv=Content-Type content="text/html;charset=utf-8">
+
+</head>
+<body>
+
+<h2><a name=''></a>Argument A1.4.3.3.4.4.3.2.1.1.1.1.2.4 Symbolic AI: Formal methods have been used to provide better assurance than review and informal analyses</h2>
+<a href="RAIN Robot operation SC Strawman.htm">[Back to main map]</a>
+<hr noshade="">
+Parent nodes:
+<ul>
+<li>Supports <font color="#00FF00">Argument</font>: <a href="N66053104.htm">A1.4.3.3.4.4.3.2.1.1.1.1.2 A combination of constraints, formal verification and engineered safety features have been applied to the software</a></li>
+</ul>
+<p>Child nodes:</p>
+<ul>
+<li>Has evidence <font color="#FF00FF">Evidence</font>: <a href="N88725784.htm">E1.4.3.3.4.4.3.2.1.1.1.1.2.4.1 Design Justification Report (DJR)</a></li>
+</ul>
+<hr noshade="">
+<p>The requirements for the Collision Avoidance decision making have been manually translated from structured English to Gwendolen&nbsp;(application source code) and verified.</p>
+<p>A coding standard which constrains the use of the Gwendolen language to a safe subset has been used and the code has been reviewed against this.</p>
+<p>The same structured English requirements have been manually translated into Agent Java PathFinder (AJPF) code (the verification model) which is an extension of the NASA Java Pathfinder (JPF) and verified.</p>
+<p>A coding standard which constrains the use of the AJPF language to a safe subset has been used and the code has been reviewed against this.</p>
+<p>The JPF configuration files are created from a coding standard and reviewed.</p>
+<p>The&nbsp;application source code is compiled into Java Byte Code (created from the Gwendolen Model Checking Agent Programming Languages (MCAPL) Framework).</p>
+<p>This is then executed within JPF on&nbsp;the Java Virtual Machine on the robot's target processor.</p>
+<p>The safety critical hard realtime Java Virtual Machine (JVM) (york.ac.uk have done some work on this!)&nbsp;has been qualified to SIL&nbsp;3 when used with the Windriver VxWorks Cert Edition Operating System (RTOS) on the &lt;hardware name&gt; platform (or possibly such a JVM could be developed that would execute bare metal).</p>
+<p>The&nbsp;JPF and compiled Gwendolyn execute&nbsp;on the RTOS on the robot's target processor.</p>
+<p>Any errors and warnings flagged by the execution are documented, analysed and sentenced. An impact analysis determined where bug fixes are required (the bug fixes are not limited to code, they include documentation). Corrective action has been instigated and closed out which includes a review of processes, procedures and coding standards.</p>
+<p>When all errors and warnings have been implemented and fully re-verified, the application target code progresses to the non-functional&nbsp;verification.</p>
+<p>The non-functional testing is performed in situ on the robot hardware using stimulators as necessary and shown to meet all of the requirements.</p>
+<p>The stimulators have been verified.</p>
+<p>Verification specifications have been written for all&nbsp;stages of this process which are traceable to requirements specifications.</p>
+<p>Verification&nbsp;reports have been written which are traceable to the verification specifications.</p>
+<p>Verification specifications and reports are reviewed for correctness and completeness.</p>
+<p>The formal verification provides a formal mathematical proof end-to-end (requirements to target code) of the correctness. It also identifies other potential failures such as deadlock.</p>
+<p>The complete process and justification for its adequacy is provided in the Design Justification Report.</p>
+</body>
+</html>
