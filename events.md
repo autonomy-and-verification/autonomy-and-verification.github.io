@@ -13,7 +13,7 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
     {% for event in site.events %}
       {% if event.date >= site.time %}
 
-        {% if event.externalURL and event.externalURL != "" and event.externalURL != nil %}
+        {% if event.externalURL and event.externalURL != "" and event.externalURL != nil and event.series != true %}
         <li>
           [{{ event.date | date: "%-d %B %Y" }}] <a href="{{ event.externalURL }}">{% if site.titlecase %}{{ event.title | titlecase }}{% else %}{{ event.title }} <i class="fas fa-external-link-alt"></i>{% endif %}</a>
         </li>
