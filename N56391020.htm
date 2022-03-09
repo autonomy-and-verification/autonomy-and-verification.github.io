@@ -1,0 +1,37 @@
+﻿<!doctype html>
+<html>
+<head>
+<title>Argument: A1.2.2.3.3.4.4.3.1.1.1 - The guard is simple</title>
+<link rel="stylesheet" href="main.css" type="text/css">
+<script type="text/javascript" src="node.js"></script>
+<META http-equiv=Content-Type content="text/html;charset=utf-8">
+
+</head>
+<body>
+
+<h2><a name=''></a>Argument A1.2.2.3.3.4.4.3.1.1.1 The guard is simple</h2>
+<a href="RAIN Robot operation SC Strawman.htm">[Back to main map]</a>
+<hr noshade="">
+Parent nodes:
+<ul>
+<li>Supports <font color="#0000FF">Claim</font>: <a href="N40284628.htm">C1.2.2.3.3.4.4.3.1.1 The guard is adequate to prevent collision</a></li>
+</ul>
+<p>Child nodes:</p>
+<ul>
+<li>Has evidence <font color="#FF00FF">Evidence</font>: <a href="N11891949.htm">E1.2.2.3.3.4.4.3.1.1.1.2 Guard schematics and assembly drawings</a></li>
+<li>Has evidence <font color="#FF00FF">Evidence</font>: <a href="N29423886.htm">E1.2.2.3.3.4.4.3.1.1.1.4 Propeller governor schematics and assembly drawings</a></li>
+<li>Has evidence <font color="#FF00FF">Evidence</font>: <a href="N2952951.htm">E1.2.2.3.3.4.4.3.1.1.1.5 Functional test report</a></li>
+<li>Has evidence <font color="#FF00FF">Evidence</font>: <a href="N37408484.htm">E1.2.2.3.3.4.4.3.1.1.1.1 Non functional test reports</a></li>
+<li>Has evidence <font color="#FF00FF">Evidence</font>: <a href="N78309848.htm">E1.2.2.3.3.4.4.3.1.1.1.3 Design Justification Report (DJR)</a></li>
+</ul>
+<hr noshade="">
+<p>It uses&nbsp;a small number of well understood hardware&nbsp;components and no software.</p>
+<p>It relies on</p>
+<ol>
+<li>disconnecting power to the propeller motors controlled by a micro switch (initiator) and a relay.</li>
+<li>the propeller rotation speed being governed. This is required because excess speed will prevent the guard reacting in time. This is achieved by a simple pulse counter from a hall sensor and magnet (on the propeller shaft) which removes power to the propeller motors if the count rate is exceeded.</li>
+</ol>
+<p>100% test coverage has been achieved.</p>
+<p>The design is justified in the Design Justification Report (DJR)</p>
+</body>
+</html>
