@@ -1,8 +1,0 @@
-I"<p>Research Associates <a href="http://cgi.csc.liv.ac.uk/~marie">Marie Farrell</a> and <a href="http://cgi.csc.liv.ac.uk/~mattlck">Matt Luckcuck</a> are giving a tutorial, based on their paper <a href="https://arxiv.org/abs/1807.00048">Formal Specification and Verification of Autonomous Robotic Systems: A Survey</a>, at the <a href="https://www.cs.york.ac.uk/circus/CyPhyAssure/school/">Spring School</a> at the University of York, UK. The Spring School has been organised by the <a href="https://www.cs.york.ac.uk/circus/CyPhyAssure/">CyPhyAssure</a> project, which is involved in developing methods for the compositional assurance of autonomous robots.</p>
-
-<h2 id="tutorial-content">Tutorial Content</h2>
-
-<p>In the 45 minute tutorial, Marie and Matt will discuss the challenges of current robotic systems and the formal approaches in use to tackle those challenges. Their survey paper covers the last 10 years of formal methods and robotics research, giving a snapshot of the state-of-the-art.</p>
-
-<p>Exact topics covered in the tutorial are still under discussion, but will likely focus on tackling big challenges in robotics (e.g. modelling the robot’s environment and capturing explainable autonomy) and the number of disparate approaches to formal verification of robotic systems.</p>
-:ET

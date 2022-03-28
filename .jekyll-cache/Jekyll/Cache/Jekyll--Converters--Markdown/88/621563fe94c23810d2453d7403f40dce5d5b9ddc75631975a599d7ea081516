@@ -1,7 +1,0 @@
-I"«<p>For now itâ€™s best to start with a fresh Jekyll installation and then install the theme and then transfer over any old files (posts, images, etc) from your old site.</p>
-
-<ul>
-  <li>Install Jekyll and create a new project</li>
-  <li>Git clone this repo, cd into the new Jekyll directory and run <code class="highlighter-rouge">bundle install --binstubs --path=vendor</code> to install the required dependencies.</li>
-</ul>
-:ET
