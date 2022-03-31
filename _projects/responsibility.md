@@ -2,7 +2,7 @@
 title : Computational Agent Responsibility
 ---
 
-<a href="(https://web.cs.manchester.ac.uk/~michael/Responsibility/"> <img alt="Responsibility Project Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/Responsibility.png"></a>
+<a href="https://web.cs.manchester.ac.uk/~michael/Responsibility/"> <img alt="Responsibility Project Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/Responsibility.png"></a>
 
 <!-- Engineered systems are becoming more complex and, increasingly, more autonomous; However, it has become clear that simple ethical principles, such as good/bad or right/wrong, are insufficient to capture high-level autonomous decision-making and that we need stronger concepts of "responsibility" in practice. -->
 
