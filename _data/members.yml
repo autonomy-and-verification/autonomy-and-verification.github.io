@@ -25,6 +25,10 @@ CurrentMembers:
       - name: "Dr Georgios Kourtis"
         website: "https://www.liverpool.ac.uk/computer-science/staff/georgios-kourtis"
         orcid: "https://orcid.org/0000-0001-9635-0643"
+        
+      - name: "Maryam Ghaffari Saadat"
+        website: "https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/"
+        orcid: "https://orcid.org/0000-0002-5010-505X"
 
       - name: "Peter Stringer"
         website: "https://peterwstringer.com/"
