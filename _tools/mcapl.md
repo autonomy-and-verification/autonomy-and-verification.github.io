@@ -17,7 +17,7 @@ The Model Checking Agent Programming Language (MCAPL) framework is a suite of to
 
 ### Descriptions of (Aspects of) the MCAPL Framework, AJPF, Gwendolen and their Usage 
 
-* Louise A. Dennis. [Verifying Autonomous Systems.](https://doi.org/10.1007/978-3-031-07727-2_1)<i class="fas fa-external-link-alt"></i>. In: ter Beek, M.H., Monahan, R. (eds) Integrated Formal Methods. IFM 2022. Lecture Notes in Computer Science, vol 13274. Springer, Cham.
+* Louise A. Dennis. [Verifying Autonomous Systems.](https://doi.org/10.1007/978-3-031-07727-2_1)<i class="fas fa-external-link-alt"></i> In: ter Beek, M.H., Monahan, R. (eds) Integrated Formal Methods. IFM 2022. Lecture Notes in Computer Science, vol 13274. Springer, Cham.
 * Stringer, P., Cardoso, R.C., Dixon, C., Dennis, L.A. (2022). [Implementing Durative Actions with Failure Detection in GWENDOLEN.](https://doi.org/10.1007/978-3-030-97457-2_19) In: Alechina, N., Baldoni, M., Logan, B. (eds) Engineering Multi-Agent Systems. EMAS 2021. Lecture Notes in Computer Science, vol 13190. Springer, Cham. 
 * Angelo Ferrando, Louise A. Dennis, Rafael C. Cardoso, Michael Fisher, Davide Ancona and Viviana Mascardi.  [Towards a Holistic Approach to Verification and Validation of Autonomous Cognitive Systems](https://doi.org/10.1145/3447246)<i class="fas fa-external-link-alt"></i>.  ACM Transactions on Software Engineering and Methodology.  30(4).  2021.  
 * Rafael C. Cardoso, Louise A. Dennis and Michael Fisher. [Plan Library Reconfigurability in BDI Agents](https://doi.org/10.1007/978-3-030-51417-4_10)<i class="fas fa-external-link-alt"></i>. In: Dennis L., Bordini R., Lespérance Y. (eds) Engineering Multi-Agent Systems. EMAS 2019. Lecture Notes in Computer Science, vol 12058. Springer, Cham
