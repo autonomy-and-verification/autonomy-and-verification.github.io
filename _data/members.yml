@@ -1,10 +1,8 @@
 CurrentMembers:
   - Institute: "University of Manchester"
     MembersList:
-      - name: "Dr Christopher Anderson"
-        orcid: "https://orcid.org/0000-0001-7224-8193"
-
       - name: "Dr Joe Collenette"
+        website: "https://dblp.org/pid/181/8354.html"
 
       - name: "Dr Louise Dennis"
         website: "https://personalpages.manchester.ac.uk/staff/louise.dennis/"
@@ -23,19 +21,33 @@ CurrentMembers:
         orcid: "https://orcid.org/0000-0002-0875-3862"
 
       - name: "Dr Georgios Kourtis"
-        website: "https://www.liverpool.ac.uk/computer-science/staff/georgios-kourtis"
+        website: "https://dblp.org/pid/190/7186.html"
         orcid: "https://orcid.org/0000-0001-9635-0643"
         
-      - name: "Maryam Ghaffari Saadat"
+      - name: "Dr Ramon Pereira"
+        website: "https://www.ramonfpereira.com/"
+        
+      - name: "Dr Maryam Ghaffari Saadat"
         website: "https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/"
         orcid: "https://orcid.org/0000-0002-5010-505X"
 
       - name: "Peter Stringer"
         website: "https://peterwstringer.com/"
         orcid: "https://orcid.org/0000-0002-8760-4717"
+        
+      - name: "Hazel Taylor"
+        website: "https://scholar.google.com/citations?user=2yOqX0YAAAAJ&hl=en"
+        orcid: "https://orcid.org/0000-0003-0130-1174"
+        
+      - name: "Dr Samuele Vinanzi"
+        website: "https://www.research.manchester.ac.uk/portal/samuele.vinanzi.html"
+        orcid: "https://orcid.org/0000-0003-0241-9983"
 
       - name: "Yifan Xu"
         website: "https://www.research.manchester.ac.uk/portal/yifan.xu.html"
+        
+      - name: "Dr Youcheng Sun"
+        website: "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
 
   - Institute: "Maynooth University"
     MembersList :
@@ -53,6 +65,48 @@ CurrentMembers:
         website: "https://rafaelcaue.github.io/"
         orcid: "https://orcid.org/0000-0001-6666-6954"
 
+  - Institute: "University of Genova"
+    MembersList :
+      - name: "Dr Angelo Ferrando"
+        website: "https://angeloferrando.github.io/website/"
+        orcid: "https://orcid.org/0000-0002-8711-4670"
+        
+  - Institute: "Northeastern University"
+    MembersList:
+      - name: "Dr Emily C. Collins"
+        website: "https://www.nchlondon.ac.uk/faculty/dr-emily-collins/"
+        orcid: "https://orcid.org/0000-0001-9396-536X"
+
+AffiliatedMembers:
+  - Institute: "University of Manchester"
+    MembersList:
+      - name: "Dr Christopher Anderson"
+        orcid: "https://orcid.org/0000-0001-7224-8193"
+        
+  - Institute: "University of Liverpool"
+    MembersList:
+      - name: "Dr Xiaowei Huang"
+        website: "https://cgi.csc.liv.ac.uk/~xiaowei/"
+        orcid: "https://orcid.org/0000-0001-6267-0366"
+        
+      - name: "Dr Alexei Lisitsa"
+        website: "http://cgi.csc.liv.ac.uk/~alexei/"
+
+      - name: "Dr Mike Jump"
+        website: "https://www.liverpool.ac.uk/engineering/staff/michael-jump/"
+        orcid: "https://orcid.org/0000-0002-1028-2334"
+
+      - name: "Dr Shan Luo"
+        website: "https://cgi.csc.liv.ac.uk/~shanluo/"
+        orcid: "https://orcid.org/0000-0003-4760-0372"
+        
+      - name: "Dr Vince Page"
+      
+  - Institute: "Virtual Engineering Centre"
+    MembersList:
+      - name: "Dr Konstantin Vikhorev"
+        website: "http://www.virtualengineeringcentre.com/about/team/dr-konstantin-vikhorev"
+
   - Institute: "Liverpool John Moores University"
     MembersList:
       - name: "Dr Matt Webster"
@@ -69,50 +123,12 @@ CurrentMembers:
         website: "http://cgi.csc.liv.ac.uk/~papacchf/"
         orcid: "https://orcid.org/0000-0002-0310-7378"
 
-  - Institute: "University of Genova"
-    MembersList :
-      - name: "Dr Angelo Ferrando"
-        website: "https://angeloferrando.github.io/website/"
-        orcid: "https://orcid.org/0000-0002-8711-4670"
-
-AffiliatedMembers:
-  - Institute: "Department of Computer Science, University of Liverpool"
-    MembersList:
-      - name: "Dr Alexei Lisitsa"
-        website: "http://cgi.csc.liv.ac.uk/~alexei/"
-
-      - name: "Dr Xiaowei Huang"
-        website: "https://cgi.csc.liv.ac.uk/~xiaowei/"
-        orcid: "https://orcid.org/0000-0001-6267-0366"
-
-      - name: "Dr Shan Luo"
-        website: "https://cgi.csc.liv.ac.uk/~shanluo/"
-        orcid: "https://orcid.org/0000-0003-4760-0372"
-
-
-  - Institute: "Virtual Engineering Centre"
-    MembersList:
-      - name: "Dr Konstantin Vikhorev"
-        website: "http://www.virtualengineeringcentre.com/about/team/dr-konstantin-vikhorev"
-
-  - Institute: "Department of Engineering, University of Liverpool"
-    MembersList:
-      - name: "Dr Mike Jump"
-        website: "https://www.liverpool.ac.uk/engineering/staff/michael-jump/"
-        orcid: "https://orcid.org/0000-0002-1028-2334"
-
-      - name: "Dr Vince Page"
-
-  - Institute: "Institute for Experiential Robotics, Northeastern University"
-    MembersList:
-      - name: "Dr Emily C. Collins"
-        website: "https://www.nchlondon.ac.uk/faculty/dr-emily-collins/"
-        orcid: "https://orcid.org/0000-0001-9396-536X"
 
 PreviousMembers:
   - name: "Dr Elisa Cucco"
+  
+  - name: "Dr Paul Gainer"
 
   - name: "Dr Maryam Kamali"
-    orcid: "https://orcid.org/0000-0002-2789-6914"
 
   - name: "Dr Charles Patchett"
