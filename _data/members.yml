@@ -49,16 +49,6 @@ CurrentMembers:
       - name: "Dr Youcheng Sun"
         website: "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
 
-  - Institute: "Maynooth University"
-    MembersList :
-      - name: "Dr Marie Farrell"
-        website: "https://mariefarrell.github.io/"
-        orcid: "https://orcid.org/0000-0001-7708-3877"
-
-      - name: "Dr Matt Luckcuck"
-        website: "https://mluckcuck.github.io/"
-        orcid: "https://orcid.org/0000-0002-6444-9312"
-
   - Institute: "University of Aberdeen"
     MembersList:
       - name: "Dr Rafael C. Cardoso"
@@ -76,6 +66,16 @@ CurrentMembers:
       - name: "Dr Emily C. Collins"
         website: "https://www.nchlondon.ac.uk/faculty/dr-emily-collins/"
         orcid: "https://orcid.org/0000-0001-9396-536X"
+        
+  - Institute: "Maynooth University"
+    MembersList :
+      - name: "Dr Marie Farrell"
+        website: "https://mariefarrell.github.io/"
+        orcid: "https://orcid.org/0000-0001-7708-3877"
+
+      - name: "Dr Matt Luckcuck"
+        website: "https://mluckcuck.github.io/"
+        orcid: "https://orcid.org/0000-0002-6444-9312"
 
 AffiliatedMembers:
   - Institute: "University of Manchester"
