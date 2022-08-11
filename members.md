@@ -54,7 +54,7 @@ title: Members
   </ul>
   </div>
   </section>
-{% endfor  %}
+{% endfor %}
 </section>
 <br>
 
