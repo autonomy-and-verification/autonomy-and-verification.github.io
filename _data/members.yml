@@ -67,6 +67,12 @@ CurrentMembers:
         website: "https://www.nchlondon.ac.uk/faculty/dr-emily-collins/"
         orcid: "https://orcid.org/0000-0001-9396-536X"
         
+  - Institute: "Liverpool John Moores University"
+    MembersList:
+      - name: "Dr Matt Webster"
+        website: "http://www.csc.liv.ac.uk/~matt"
+        orcid: "https://orcid.org/0000-0002-8817-6881"
+        
   - Institute: "Maynooth University"
     MembersList :
       - name: "Dr Marie Farrell"
@@ -107,12 +113,6 @@ AffiliatedMembers:
     MembersList:
       - name: "Dr Konstantin Vikhorev"
         website: "http://www.virtualengineeringcentre.com/about/team/dr-konstantin-vikhorev"
-
-  - Institute: "Liverpool John Moores University"
-    MembersList:
-      - name: "Dr Matt Webster"
-        website: "http://www.csc.liv.ac.uk/~matt"
-        orcid: "https://orcid.org/0000-0002-8817-6881"
 
   - Institute: "Lancaster University Leipzig"
     MembersList:
