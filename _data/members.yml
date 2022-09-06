@@ -31,8 +31,8 @@ CurrentMembers:
         website: "https://dblp.org/pid/190/7186.html"
         orcid: "https://orcid.org/0000-0001-9635-0643"
 
-      - name: "Dr Ramon Pereira"
-        website: "https://www.ramonfpereira.com/"
+#      - name: "Dr Ramon Fraga Pereira"
+#        website: "https://www.ramonfpereira.com/"
         
       - name: "Dr Maryam Ghaffari Saadat"
         website: "https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/"
@@ -93,7 +93,7 @@ CurrentMembers:
    - Institute: "Sapienza Università di Roma"
    MembersList:
       - name: "Ramon Fraga Pereira"
-      website: "https://www.ramonfpereira.com/"
+        website: "https://www.ramonfpereira.com/"
 
 AffiliatedMembers:
   - Institute: "University of Manchester"
