@@ -87,8 +87,8 @@ CurrentMembers:
         website: "https://mluckcuck.github.io/"
         orcid: "https://orcid.org/0000-0002-6444-9312"
         
-   - Institute: "Sapienza Università di Roma"
-   MembersList:
+  - Institute: "Sapienza Università di Roma"
+    MembersList :
       - name: "Ramon Fraga Pereira"
         website: "https://www.ramonfpereira.com/"
 
