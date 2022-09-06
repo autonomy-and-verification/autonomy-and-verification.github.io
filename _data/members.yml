@@ -2,6 +2,8 @@ CurrentMembers:
   - Institute: "University of Manchester"
     MembersList:
       - name: "Dr Leandro Buss Becker"
+        website: "https://scholar.google.co.uk/citations?user=XSC9o6wAAAAJ&hl=en"
+        orcid: "https://orcid.org/0000-0003-1872-4771"
     
       - name: "Dr Joe Collenette"
         website: "https://dblp.org/pid/181/8354.html"
@@ -23,6 +25,7 @@ CurrentMembers:
         orcid: "https://orcid.org/0000-0002-0875-3862"
 
       - name: "Simon Kolker"
+        website: "https://www.linkedin.com/in/simonkolker/?originalSubdomain=uk"
 
       - name: "Dr Georgios Kourtis"
         website: "https://dblp.org/pid/190/7186.html"
