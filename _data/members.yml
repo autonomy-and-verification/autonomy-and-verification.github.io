@@ -1,6 +1,8 @@
 CurrentMembers:
   - Institute: "University of Manchester"
     MembersList:
+      - name: "Dr Leandro Buss Becker"
+    
       - name: "Dr Joe Collenette"
         website: "https://dblp.org/pid/181/8354.html"
 
@@ -20,10 +22,12 @@ CurrentMembers:
         website: "https://personalpages.manchester.ac.uk/staff/michael.fisher/"
         orcid: "https://orcid.org/0000-0002-0875-3862"
 
+      - name: "Simon Kolker"
+
       - name: "Dr Georgios Kourtis"
         website: "https://dblp.org/pid/190/7186.html"
         orcid: "https://orcid.org/0000-0001-9635-0643"
-        
+
       - name: "Dr Ramon Pereira"
         website: "https://www.ramonfpereira.com/"
         
@@ -40,7 +44,7 @@ CurrentMembers:
         orcid: "https://orcid.org/0000-0003-0130-1174"
         
       - name: "Dr Samuele Vinanzi"
-        website: "https://www.research.manchester.ac.uk/portal/samuele.vinanzi.html"
+        website: "https://sites.google.com/view/samuele-vinanzi/"
         orcid: "https://orcid.org/0000-0003-0241-9983"
 
       - name: "Yifan Xu"
