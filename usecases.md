@@ -11,7 +11,7 @@ This page lists use cases of autonomous systems that are relevant for applying v
 
 - [**Mars Curiosity Rover** <i class="fas fa-external-link-alt"></i>](https://github.com/markgatland/curiosity_mars_rover_ws)  --- a comprehensive simulation of the Mars Curiosity rover using ROS1 and Gazebo. Includes several realistic environments, as well as support for controlling the rover via Virtual Reality and a web application for interacting with the rover.
 - [**Remote Inspection Rover in a Nuclear Waste Store** <i class="fas fa-external-link-alt"></i>](https://github.com/EEEManchester/gazebo_radiation_plugin)  --- a simulation in ROS1-Gazebo of a Jackal rover performing remote inspection in a nuclear waste store; the Jackal uses a (simulated) sensor to take radiation measurements of its surroundings.
--[**Autonomous Driving Cars Combining Agent-Programming and Deep Neural Networks** <i class="fas fa-external-link-alt"></i>](https://github.com/alshukairi/ML-MAS-Framework) --- a framework for combining BDI agents (Jason) and a ML model, running in the CARLA simulator and evaluated through a set of official benhmarks from the "Leaderboard" competition.
+- [**Autonomous Driving Cars Combining Agent-Programming and Deep Neural Networks** <i class="fas fa-external-link-alt"></i>](https://github.com/alshukairi/ML-MAS-Framework) --- a framework for combining BDI agents (Jason) and a ML model, running in the CARLA simulator and evaluated through a set of official benhmarks from the "Leaderboard" competition.
 
 </div>
 </section>
