@@ -1,6 +1,14 @@
 ---
 layout: event
-title: "First Workshop on Agents and Robots for reliable Engineered Autonomy"
-date : 2020-09-04
-externalURL: "https://area2020.github.io/"
+title: "Workshop on Agents and Robots for reliable Engineered Autonomy (AREA)"
+series : true
+externalURL: https://areaworkshop.github.io/
+
 ---
+
+<html>
+    <head>
+	<meta http-equiv="refresh" content="0; url=https://areaworkshop.github.io/">
+	<link rel="canonical" href="https://areaworkshop.github.io/" />
+    </head>
+</html>
