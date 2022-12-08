@@ -52,6 +52,9 @@ CurrentMembers:
 
       - name: "Dr Youcheng Sun"
         website: "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
+        
+      - name: "Sen Zheng"
+        website: "https://senzhengsz.github.io/szheng/"
 
   - Institute: "University of Aberdeen"
     MembersList:
