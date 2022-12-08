@@ -15,11 +15,11 @@ CurrentMembers:
       - name: "Prof. Clare Dixon"
         website: "https://www.research.manchester.ac.uk/portal/clare.dixon.html"
         orcid: "https://orcid.org/0000-0002-4610-9533"
-      
-       - name: "Dr Marie Farrell"
+        
+      - name: "Dr Marie Farrell"
         website: "https://mariefarrell.github.io/"
         orcid: "https://orcid.org/0000-0001-7708-3877"
-
+        
       - name: "Dr Fatma Faruq"
         website: "https://fatmaf.github.io/"
         orcid: "https://orcid.org/0000-0001-6928-0176"
