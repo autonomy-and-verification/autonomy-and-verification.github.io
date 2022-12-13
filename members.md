@@ -14,12 +14,12 @@ title: Members
   {% for member in institute.MembersList %}
   <li>
   {% if member.website != null %}
-    <a href="{{ member.website }}">{{ member.name }}</a>
+    <a href="{{ member.website }}" target="_blank" rel="noopener noreferrer">{{ member.name }}</a>
   {% else %}
     {{ member.name }}
   {% endif %}
   {% if member.alt-website != null%}
-    and <a href="{{ member.alt-website }}">website</a>
+    and <a href="{{ member.alt-website }}" target="_blank" rel="noopener noreferrer">website</a>
   {% endif %}
   {% if member.orcid != null %}
     <a href="{{ member.orcid }}" target="_blank" rel="noopener noreferrer"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
@@ -49,12 +49,12 @@ title: Members
   {% for member in institute.MembersList %}
     <li>
     {% if member.website != null %}
-      <a href="{{ member.website }}">{{ member.name }}</a>
+      <a href="{{ member.website }}" target="_blank" rel="noopener noreferrer">{{ member.name }}</a>
     {% else %}
       {{ member.name }}
     {% endif %}
     {% if member.orcid != null %}
-      <a href="{{ member.orcid }}"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
+      <a href="{{ member.orcid }}" target="_blank" rel="noopener noreferrer"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
     {% endif %}
     </li>
   {% endfor %}
@@ -72,12 +72,12 @@ title: Members
 {% for member in site.data.members.PreviousMembers %}   
   <li>
   {% if member.website != null %}
-    <a href="{{ member.website }}">{{ member.name }}</a>
+    <a href="{{ member.website }}" target="_blank" rel="noopener noreferrer">{{ member.name }}</a>
   {% else %}
     {{ member.name }}
   {% endif %}
   {% if member.orcid != null %}
-  <a href="{{ member.orcid }}"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
+  <a href="{{ member.orcid }}" target="_blank" rel="noopener noreferrer"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
   {% endif %}
   </li>
 {% endfor %}

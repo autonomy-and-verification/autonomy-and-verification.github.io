@@ -14,11 +14,11 @@ The current research projects the the Autonomy and Verification Network is invol
  {% assign offset = forloop.index0 | times: 2 %}
    {% for project in site.projects limit:2 offset:offset %}
       <section class="columns large-6">
-
-          <h3> {{project.title}}</h3>
+      <div class="shaded_box">
+          <h3 style="text-decoration: underline;"> {{project.title}}</h3>
           <br>
           {{project.content}}
-
+      </div>
       </section>     
    {% endfor %}   
 </article>
@@ -35,11 +35,11 @@ The current research projects the the Autonomy and Verification Network is invol
  {% assign offset = forloop.index0 | times: 2 %}
    {% for project in site.projects-previous limit:2 offset:offset %}
       <section class="columns large-6">
-
-          <h3> {{project.title}}</h3>
+        <div class="shaded_box">
+          <h3 style="text-decoration: underline;"> {{project.title}}</h3>
           <br>
           {{project.content}}
-
+      </div>
       </section>     
    {% endfor %}   
 </article>

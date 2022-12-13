@@ -17,7 +17,7 @@ The list below gives a short description of each tool. Click "More Details" for 
       <section class="columns large-6">
       <div class="shaded_box" style="min-height:270px">
         <div style="margin:0 25px">
-          <a href="{{ tool.url }}"><h3>{{tool.title}}</h3></a>
+          <a href="{{ tool.url }}"><h3 style="text-decoration: underline;">{{tool.title}}</h3></a>
           <h4> {{tool.author}} </h4>
         <p>{{tool.blurb}}</p>
         <p><a href="{{ tool.url }}">More Details</a></p>

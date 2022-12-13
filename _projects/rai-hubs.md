@@ -5,14 +5,14 @@ image : /images/project-images/rain-b-logo.png
 
 <article class="row">
 <a href="{{ site.url }}/projects/rai-hubs">
-  <section class="columns large-4">
- <img alt="RAIN Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/rain-b-logo.png">
+  <section class="columns medium-4">
+ <img alt="RAIN Logo" style="float: left; margin: 1em 0em 1em 0em" src="{{site.images}}project-images/rain-b-logo.png">
 </section>
-  <section class="columns large-4">
-<img alt="ORCA Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/orca-logo.png">
+  <section class="columns medium-4">
+<img alt="ORCA Logo" style="float: left; margin: 1em 0em 1em 0em" src="{{site.images}}project-images/orca-logo.png">
 </section>
-  <section class="columns large-4">
-<img alt="FAIR Space Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/fair-space-b-logo.png">
+  <section class="columns medium-4">
+<img alt="FAIR Space Logo" style="float: left; margin: 1em 0em 1em 0em" src="{{site.images}}project-images/fair-space-b-logo.png">
 </section>
 </a>
 </article>
