@@ -15,11 +15,11 @@ CurrentMembers:
       - name: "Prof. Clare Dixon"
         website: "https://www.research.manchester.ac.uk/portal/clare.dixon.html"
         orcid: "https://orcid.org/0000-0002-4610-9533"
-        
+
       - name: "Dr Marie Farrell"
         website: "https://mariefarrell.github.io/"
         orcid: "https://orcid.org/0000-0001-7708-3877"
-        
+
       - name: "Dr Fatma Faruq"
         website: "https://fatmaf.github.io/"
         orcid: "https://orcid.org/0000-0001-6928-0176"
@@ -56,7 +56,7 @@ CurrentMembers:
 
       - name: "Dr Youcheng Sun"
         website: "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
-        
+
       - name: "Dr Sen Zheng"
         website: "https://senzhengsz.github.io/szheng/"
 
@@ -72,11 +72,13 @@ CurrentMembers:
         website: "https://angeloferrando.github.io/website/"
         orcid: "https://orcid.org/0000-0002-8711-4670"
 
-  - Institute: "<a href='https://robotics.northeastern.edu/'>Northeastern University - Institute for Experiential Robotics</a>"
+  - Institute: "<a href='https://robotics.northeastern.edu/' target='_blank' rel='noopener noreferrer'>Northeastern University - Institute for Experiential Robotics</a>"
     MembersList:
       - name: "Dr Emily C. Collins"
-        website: "https://coe.northeastern.edu/people/collins-emily/"
+        website: "https://www.nchlondon.ac.uk/faculty/dr-emily-collins/"
+        alt-website: "https://coe.northeastern.edu/people/collins-emily/"
         orcid: "https://orcid.org/0000-0001-9396-536X"
+        scholar : "Test"
 
   - Institute: "Liverpool John Moores University"
     MembersList:
@@ -85,7 +87,7 @@ CurrentMembers:
         orcid: "https://orcid.org/0000-0002-8817-6881"
 
   - Institute: "University of Derby"
-    MembersList :     
+    MembersList :
       - name: "Dr Matt Luckcuck"
         website: "https://mluckcuck.github.io/"
         orcid: "https://orcid.org/0000-0002-6444-9312"

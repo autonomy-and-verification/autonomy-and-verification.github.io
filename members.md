@@ -8,8 +8,8 @@ title: Members
 
 {% for institute in site.data.members.CurrentMembers %}  
   <section class="small-5 medium-4 columns">
-  <h3 style="text-decoration: underline;">{{ institute.Institute }} </h3>
   <div class="shaded_box">
+  <h3 style="text-decoration: underline;">{{ institute.Institute }} </h3>
   <ul >
   {% for member in institute.MembersList %}
   <li>
@@ -18,9 +18,15 @@ title: Members
   {% else %}
     {{ member.name }}
   {% endif %}
-  {% if member.orcid != null %}
-    <a href="{{ member.orcid }}"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
+  {% if member.alt-website != null%}
+    and <a href="{{ member.alt-website }}">website</a>
   {% endif %}
+  {% if member.orcid != null %}
+    <a href="{{ member.orcid }}" target="_blank" rel="noopener noreferrer"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
+  {% endif %}
+  {% if member.scholar != null %}
+    <a href="{{ member.scholar }}" target="_blank" rel="noopener noreferrer"><img alt="Google Scholar Logo" src="/images/logos/gscholar32x32.png" width="21" height="21"/></a>
+  {% endif%}
   </li>
   {% endfor %}
   </ul>
@@ -36,8 +42,9 @@ title: Members
 <h2> Affiliated Members </h2>
 {% for institute in site.data.members.AffiliatedMembers %}
   <section class="small-5 medium-4 columns">
-  <h3 style="text-decoration: underline;">{{ institute.Institute }}</h3>
   <div class="shaded_box">
+  <h3 style="text-decoration: underline;">{{ institute.Institute }}</h3>
+
   <ul>
   {% for member in institute.MembersList %}
     <li>
@@ -60,6 +67,7 @@ title: Members
 
 <section class="row">
 <h2> Previous Members </h2>
+<div class="shaded_box">
 <ul>
 {% for member in site.data.members.PreviousMembers %}   
   <li>
@@ -74,5 +82,5 @@ title: Members
   </li>
 {% endfor %}
 </ul>
-
+</div>
 </section>
