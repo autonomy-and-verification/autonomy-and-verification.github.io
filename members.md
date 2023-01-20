@@ -18,8 +18,7 @@ title: Members
   {% else %}
     {{ member.name }}
   {% endif %}
-  {% if member.alt-website != null%}
-  , <a href="{{ member.alt-website }}" target="_blank" rel="noopener noreferrer">see also</a>
+  {% if member.alt-website != null%}, <a href="{{ member.alt-website }}" target="_blank" rel="noopener noreferrer">see also</a>
   {% endif %}
   {% if member.orcid != null %}
     <a href="{{ member.orcid }}" target="_blank" rel="noopener noreferrer"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
