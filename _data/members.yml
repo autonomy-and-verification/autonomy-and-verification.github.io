@@ -20,10 +20,6 @@ CurrentMembers:
         website: "https://mariefarrell.github.io/"
         orcid: "https://orcid.org/0000-0001-7708-3877"
 
-      - name: "Dr Fatma Faruq"
-        website: "https://fatmaf.github.io/"
-        orcid: "https://orcid.org/0000-0001-6928-0176"
-
       - name: "Prof. Michael Fisher"
         website: "https://personalpages.manchester.ac.uk/staff/michael.fisher/"
         orcid: "https://orcid.org/0000-0002-0875-3862"
@@ -34,6 +30,9 @@ CurrentMembers:
       - name: "Dr Georgios Kourtis"
         website: "https://dblp.org/pid/190/7186.html"
         orcid: "https://orcid.org/0000-0001-9635-0643"
+        
+      - name: "Dr Ramon Fraga Pereira"
+        website: "https://www.ramonfpereira.com/"
 
       - name: "Dr Maryam Ghaffari Saadat"
         website: "https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/"
@@ -92,11 +91,6 @@ CurrentMembers:
         website: "http://www.matt-webster.com/"
         orcid: "https://orcid.org/0000-0002-8817-6881"
 
-  - Institute: "Sapienza Università di Roma"
-    MembersList :
-      - name: "Ramon Fraga Pereira"
-        website: "https://www.ramonfpereira.com/"
-
 AffiliatedMembers:
   - Institute: "University of Manchester"
     MembersList:
@@ -141,6 +135,8 @@ AffiliatedMembers:
 
 PreviousMembers:
   - name: "Dr Elisa Cucco"
+  
+  - name: "Dr Fatma Faruq"
 
   - name: "Dr Paul Gainer"
 
