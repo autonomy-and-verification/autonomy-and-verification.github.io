@@ -7,7 +7,7 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
 
 <article class="row">
 
-<section class="columns large-7" >
+<section class="columns large-7">
 <h2>Upcoming Events</h2>
   <ul>
     {% for event in site.events %}
