@@ -90,6 +90,11 @@ CurrentMembers:
       - name: "Dr Matt Webster"
         website: "http://www.matt-webster.com/"
         orcid: "https://orcid.org/0000-0002-8817-6881"
+        
+  - Institute: "Federal University of Santa Catarina (UFSC)"
+    MembersList:
+      - name: "Iago de Oliveira Silvestre"
+        orcid: "https://orcid.org/0009-0008-6604-781X"
 
 AffiliatedMembers:
   - Institute: "University of Manchester"
