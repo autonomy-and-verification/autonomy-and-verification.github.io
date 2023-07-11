@@ -140,13 +140,14 @@ AffiliatedMembers:
       - name: "Dr Fabio Papacchini"
         website: "http://cgi.csc.liv.ac.uk/~papacchf/"
         orcid: "https://orcid.org/0000-0002-0310-7378"
+  - Institute: "ETAS"
+    MembersList:
+      - name: "Dr Fatma Faruq"
+        website: "https://fatmaf.github.io/"  
 
 
 PreviousMembers:
   - name: "Dr Elisa Cucco"
-  
-  - name: "Dr Fatma Faruq"
-
   - name: "Dr Paul Gainer"
 
   - name: "Dr Maryam Kamali"
