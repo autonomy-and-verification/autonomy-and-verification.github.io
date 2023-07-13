@@ -2,9 +2,9 @@
   description: "Twitter"
   href: "https://twitter.com/AandVNetwork"
 
-- icon: "fab fa-researchgate"
-  description: "ResearchGate"
-  href: "https://www.researchgate.net/lab/Michael-Fishers-Autonomy-and-Verification-Lab-Michael-Fisher"
+#- icon: "fab fa-researchgate"
+#  description: "ResearchGate"
+#  href: "https://www.researchgate.net/lab/Michael-Fishers-Autonomy-and-Verification-Lab-Michael-Fisher"
 
 - icon: "fab fa-github"
   description: "GitHub organization"
