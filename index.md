@@ -16,9 +16,12 @@ The network is led by [Professor Michael Fisher](https://web.cs.manchester.ac.uk
 
 
 </div>
-<!---
+
 </section>
 <section class="columns small-12 large-4" >
-<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/AandVNetwork?ref_src=twsrc%5Etfw">Tweets by AandVNetwork</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-</section> --->
+  
+<!---
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/AandVNetwork?ref_src=twsrc%5Etfw">Tweets by AandVNetwork</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> --->
+</section> 
+
 </article>
