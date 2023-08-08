@@ -94,8 +94,7 @@ CurrentMembers:
 
   - Institute: "Liverpool John Moores University"
     MembersList:
-      - name: "Dr Matt Webster"
-        website: "http://www.matt-webster.com/"
+      - name: "Dr Matt Webster"        
         orcid: "https://orcid.org/0000-0002-8817-6881"
         
   - Institute: "Federal University of Santa Catarina (UFSC)"
