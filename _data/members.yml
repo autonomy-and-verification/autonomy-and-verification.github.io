@@ -65,21 +65,18 @@ CurrentMembers:
       
       - name: "Dr Mengwei Xu"
         website: "https://mengweixu.netlify.app/"
-        orcid: "https://orcid.org/0000-0003-4978-3061"        
+        orcid: "https://orcid.org/0000-0003-4978-3061"
+        
+      - name: "Dr Emily C. Collins"
+        website: "https://research.manchester.ac.uk/en/persons/e.c.collins"        
+        orcid: "https://orcid.org/0000-0001-9396-536X"
+        scholar : "https://scholar.google.co.uk/citations?user=OIcNb2QAAAAJ&hl"            
 
   - Institute: "University of Aberdeen"
     MembersList:
       - name: "Dr Rafael C. Cardoso"
         website: "https://rafaelcaue.github.io/"
         orcid: "https://orcid.org/0000-0001-6666-6954"
-
-  - Institute: "<a href='https://robotics.northeastern.edu/' target='_blank' rel='noopener noreferrer'>Northeastern University - Institute for Experiential Robotics</a>"
-    MembersList:
-      - name: "Dr Emily C. Collins"
-        website: "https://coe.northeastern.edu/people/collins-emily/"
-        alt-website:  "https://www.nchlondon.ac.uk/faculty/dr-emily-collins/"
-        orcid: "https://orcid.org/0000-0001-9396-536X"
-        scholar : "https://scholar.google.co.uk/citations?user=OIcNb2QAAAAJ&hl"
 
   - Institute: "University of Derby"
     MembersList :
