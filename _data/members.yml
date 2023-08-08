@@ -4,6 +4,11 @@ CurrentMembers:
       - name: "Dr Leandro Buss Becker"
         website: "https://scholar.google.co.uk/citations?user=XSC9o6wAAAAJ&hl=en"
         orcid: "https://orcid.org/0000-0003-1872-4771"
+        
+      - name: "Dr Emily C. Collins"
+        website: "https://research.manchester.ac.uk/en/persons/e.c.collins"        
+        orcid: "https://orcid.org/0000-0001-9396-536X"
+        scholar : "https://scholar.google.co.uk/citations?user=OIcNb2QAAAAJ&hl"  
 
       - name: "Dr Joe Collenette"
         website: "https://joecol.github.io/"
@@ -67,10 +72,7 @@ CurrentMembers:
         website: "https://mengweixu.netlify.app/"
         orcid: "https://orcid.org/0000-0003-4978-3061"
         
-      - name: "Dr Emily C. Collins"
-        website: "https://research.manchester.ac.uk/en/persons/e.c.collins"        
-        orcid: "https://orcid.org/0000-0001-9396-536X"
-        scholar : "https://scholar.google.co.uk/citations?user=OIcNb2QAAAAJ&hl"            
+          
 
   - Institute: "University of Aberdeen"
     MembersList:
