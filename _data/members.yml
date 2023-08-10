@@ -93,16 +93,22 @@ CurrentMembers:
       - name: "Dr Samuele Vinanzi"
         website: "https://sites.google.com/view/samuele-vinanzi/"
         orcid: "https://orcid.org/0000-0003-0241-9983"
-  
-  - Institute: "Liverpool John Moores University"
-    MembersList:
-      - name: "Dr Matt Webster"        
-        orcid: "https://orcid.org/0000-0002-8817-6881"
-        
+
   - Institute: "Federal University of Santa Catarina (UFSC)"
     MembersList:
       - name: "Iago de Oliveira Silvestre"
         orcid: "https://orcid.org/0009-0008-6604-781X"
+  
+  - Institute: "Liverpool John Moores University"
+    MembersList:
+      - name: "Dr Matt Webster"        
+        orcid: "https://orcid.org/0000-0002-8817-6881"    
+        
+  - Institute: "University of Bergen"
+    MembersList:
+      - name: "Marija Slavkovik"
+        orcid: "https://orcid.org/0000-0003-2548-8623"
+        website: "https://slavkovik.com/"
 
 AffiliatedMembers:             
   - Institute: "University of Liverpool"
