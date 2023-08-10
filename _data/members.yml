@@ -55,10 +55,6 @@ CurrentMembers:
         website: "https://scholar.google.com/citations?user=2yOqX0YAAAAJ&hl=en"
         orcid: "https://orcid.org/0000-0003-0130-1174"
 
-      - name: "Dr Samuele Vinanzi"
-        website: "https://sites.google.com/view/samuele-vinanzi/"
-        orcid: "https://orcid.org/0000-0003-0241-9983"
-
       - name: "Yifan Xu"
         website: "https://www.research.manchester.ac.uk/portal/yifan.xu.html"
 
@@ -72,7 +68,11 @@ CurrentMembers:
         website: "https://mengweixu.netlify.app/"
         orcid: "https://orcid.org/0000-0003-4978-3061"
         
-          
+  - Institute: "University of Derby"
+    MembersList :
+      - name: "Dr Matt Luckcuck"
+        website: "https://mluckcuck.github.io/"
+        orcid: "https://orcid.org/0000-0002-6444-9312"         
 
   - Institute: "University of Aberdeen"
     MembersList:
@@ -80,11 +80,7 @@ CurrentMembers:
         website: "https://rafaelcaue.github.io/"
         orcid: "https://orcid.org/0000-0001-6666-6954"
 
-  - Institute: "University of Derby"
-    MembersList :
-      - name: "Dr Matt Luckcuck"
-        website: "https://mluckcuck.github.io/"
-        orcid: "https://orcid.org/0000-0002-6444-9312"
+
 
   - Institute: "University of Genova"
     MembersList :
@@ -92,6 +88,12 @@ CurrentMembers:
         website: "https://angeloferrando.github.io/website/"
         orcid: "https://orcid.org/0000-0002-8711-4670"
 
+  - Institute: "Sheffield Hallam University"
+    MembersList:
+      - name: "Dr Samuele Vinanzi"
+        website: "https://sites.google.com/view/samuele-vinanzi/"
+        orcid: "https://orcid.org/0000-0003-0241-9983"
+  
   - Institute: "Liverpool John Moores University"
     MembersList:
       - name: "Dr Matt Webster"        
@@ -102,20 +104,7 @@ CurrentMembers:
       - name: "Iago de Oliveira Silvestre"
         orcid: "https://orcid.org/0009-0008-6604-781X"
 
-AffiliatedMembers:
-  - Institute: "University of Manchester"
-    MembersList:
-      - name: "Dr Christopher Anderson"
-        orcid: "https://orcid.org/0000-0001-7224-8193"
-  - Institute: "ETAS"
-    MembersList:
-     - name: "Dr Fatma Faruq"
-       website: "https://fatmaf.github.io/"
-  - Institue: "KU Leuven"
-    MembersList:
-      - name: "Yi Yang"
-        website: "https://distrinet.cs.kuleuven.be/people/YiYang"
-        orcid: "https://orcid.org/0000-0001-9565-1559"        
+AffiliatedMembers:             
   - Institute: "University of Liverpool"
     MembersList:
       - name: "Dr Xiaowei Huang"
@@ -123,7 +112,7 @@ AffiliatedMembers:
         orcid: "https://orcid.org/0000-0001-6267-0366"
       - name: "Dr Alexei Lisitsa"
         website: "http://cgi.csc.liv.ac.uk/~alexei/"
-      - name: "Dr Mike Jump"
+      - name: "Prof. Mike Jump"
         website: "https://www.liverpool.ac.uk/engineering/staff/michael-jump/"
         orcid: "https://orcid.org/0000-0002-1028-2334"
 
@@ -134,6 +123,11 @@ AffiliatedMembers:
       - name: "Dr Vince Page"
         website: "https://www.liverpool.ac.uk/computer-science/staff/vincent-steven-page/"
 
+  - Institute: "ETAS"
+    MembersList:
+     - name: "Dr Fatma Faruq"
+       website: "https://fatmaf.github.io/"
+
   - Institute: "Virtual Engineering Centre"
     MembersList:
       - name: "Dr Konstantin Vikhorev"
@@ -141,13 +135,26 @@ AffiliatedMembers:
 
   - Institute: "Lancaster University Leipzig"
     MembersList:
-      - name: "Dr Sven Linker"
-        website: "http://cgi.csc.liv.ac.uk/~slk"
-        orcid: "https://orcid.org/0000-0003-2913-7943"
-
       - name: "Dr Fabio Papacchini"
-        website: "http://cgi.csc.liv.ac.uk/~papacchf/"
+        website: "https://www.research.lancs.ac.uk/portal/en/people/fabio-papacchini(d88714c1-862e-4e5e-8776-25e9d2d33d2a).html"
         orcid: "https://orcid.org/0000-0002-0310-7378"
+        
+  - Institute: "University of Manchester"
+    MembersList:
+      - name: "Dr Christopher Anderson"
+        orcid: "https://orcid.org/0000-0001-7224-8193"
+       
+  - Institute: "KU Leuven"
+    MembersList:
+      - name: "Yi Yang"
+        website: "https://distrinet.cs.kuleuven.be/people/YiYang"
+        orcid: "https://orcid.org/0000-0001-9565-1559" 
+        
+  - Institute: "Kernkonzept"
+    MembersList:
+      - name: "Dr Sven Linker"
+        website: "https://www.linkedin.com/in/sven-linker-a99850169/"
+        orcid: "https://orcid.org/0000-0003-2913-7943"
         
 
 
@@ -155,7 +162,6 @@ AffiliatedMembers:
 PreviousMembers:
   - name: "Dr Elisa Cucco"
   - name: "Dr Paul Gainer"
-
   - name: "Dr Maryam Kamali"
-
   - name: "Dr Charles Patchett"
+
