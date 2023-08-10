@@ -108,6 +108,17 @@ AffiliatedMembers:
       - name: "Dr Christopher Anderson"
         orcid: "https://orcid.org/0000-0001-7224-8193"
 
+   - Institute: "ETAS"
+     MembersList:
+      - name: "Dr Fatma Faruq"
+        website: "https://fatmaf.github.io/"  
+
+  - Institue: "KU Leuven"
+    MembersList:
+      - name: "Yi Yang"
+        website: "https://distrinet.cs.kuleuven.be/people/YiYang"
+        orcid: "https://orcid.org/0000-0001-9565-1559"
+        
   - Institute: "University of Liverpool"
     MembersList:
       - name: "Dr Xiaowei Huang"
@@ -142,10 +153,8 @@ AffiliatedMembers:
       - name: "Dr Fabio Papacchini"
         website: "http://cgi.csc.liv.ac.uk/~papacchf/"
         orcid: "https://orcid.org/0000-0002-0310-7378"
-  - Institute: "ETAS"
-    MembersList:
-      - name: "Dr Fatma Faruq"
-        website: "https://fatmaf.github.io/"  
+        
+
 
 
 PreviousMembers:
