@@ -16,7 +16,7 @@ The current research projects the the Autonomy and Verification Network is invol
       <section class="columns large-6">
       <div class="shaded_box">
           <h3 style="text-decoration: underline;"> {{project.title}}</h3>
-          <br>
+          
           {{project.content}}
       </div>
       </section>     
@@ -37,7 +37,7 @@ The current research projects the the Autonomy and Verification Network is invol
       <section class="columns large-6">
         <div class="shaded_box">
           <h3 style="text-decoration: underline;"> {{project.title}}</h3>
-          <br>
+          
           {{project.content}}
       </div>
       </section>     
