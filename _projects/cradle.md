@@ -1,6 +1,8 @@
+---
+title : Centre for Robotic Autonomy in Demanding and Long-lasting Environments
+--- 
 
-
-<a href="https://cradlerobotics.co.uk/"> <img alt="CRADLE Project Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/Cradle_logo_single.png"></a>
+<a href="https://cradlerobotics.co.uk/"> <img alt="CRADLE Project Logo" style="float: left; margin: .1em" src="{{site.images}}project-images/Cradle_logo_single.png"></a>
 
 <!-- <a href="https://cradlerobotics.co.uk/"> <img alt="CRADLE Project Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/Cradle_logo_thin.png"></a> -->
 
