@@ -8,9 +8,9 @@ title: Home
 <section class="columns small-12 large-7" >
 <div markdown="1">
 
-The Autonomy and Verification Network focusses on autonomous systems and their verification. Applications include unmanned aircraft, robotics and distributed sensor systems.
+The Autonomy and Verification Network is a research collaboration that focusses on autonomous systems and their verification. Practical autonomous systems that the network have tackled include pilotless aircraft, robotics, and distributed sensor systems. 
 
-The network is distributed across several universities, including The University of Manchester, University of Liverpool, Liverpool John Moores University, and Lancaster University Leipzig.
+The network began as the Autonomy and Verification Lab at the University of Liverpool, and in an effort to maintain our collaborations as group members left for other institutions we formed this cross-university network. The network is now distributed across several universities, including Tthe University of Manchester, University of Liverpool, Liverpool John Moores University, University of Aberdeen, and University of Genova.
 
 The network is led by [Professor Michael Fisher](https://web.cs.manchester.ac.uk/~michael/).
 
