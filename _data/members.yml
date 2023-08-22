@@ -103,6 +103,7 @@ CurrentMembers:
     MembersList:
       - name: "Dr Matt Webster"        
         orcid: "https://orcid.org/0000-0002-8817-6881"    
+        website: "https://www.linkedin.com/in/matthewpwebster"
         
   - Institute: "University of Bergen"
     MembersList:
@@ -121,10 +122,6 @@ AffiliatedMembers:
       - name: "Prof. Mike Jump"
         website: "https://www.liverpool.ac.uk/engineering/staff/michael-jump/"
         orcid: "https://orcid.org/0000-0002-1028-2334"
-
-      - name: "Dr Shan Luo"
-        website: "https://cgi.csc.liv.ac.uk/~shanluo/"
-        orcid: "https://orcid.org/0000-0003-4760-0372"
 
       - name: "Dr Vince Page"
         website: "https://www.liverpool.ac.uk/computer-science/staff/vincent-steven-page/"
@@ -161,6 +158,12 @@ AffiliatedMembers:
       - name: "Dr Sven Linker"
         website: "https://www.linkedin.com/in/sven-linker-a99850169/"
         orcid: "https://orcid.org/0000-0003-2913-7943"
+
+  - Institute: "King's College London"
+    MembersList:            
+      - name: "Dr Shan Luo"
+        website: "https://www.kcl.ac.uk/people/shan-luo"
+        orcid: "https://orcid.org/0000-0003-4760-0372"
         
 
 
