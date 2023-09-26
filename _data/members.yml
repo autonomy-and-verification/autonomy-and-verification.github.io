@@ -62,11 +62,8 @@ CurrentMembers:
         website: "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
 
       - name: "Dr Sen Zheng"
-        website: "https://senzhengsz.github.io/szheng/"       
-      
-      - name: "Dr Mengwei Xu"
-        website: "https://mengweixu.netlify.app/"
-        orcid: "https://orcid.org/0000-0003-4978-3061"
+        website: "https://senzhengsz.github.io/szheng/" 
+        
         
   - Institute: "University of Nottingham"
     MembersList :
@@ -79,8 +76,6 @@ CurrentMembers:
       - name: "Dr Rafael C. Cardoso"
         website: "https://rafaelcaue.github.io/"
         orcid: "https://orcid.org/0000-0001-6666-6954"
-
-
 
   - Institute: "University of Genova"
     MembersList :
@@ -110,6 +105,12 @@ CurrentMembers:
       - name: "Prof. Marija Slavkovik"
         orcid: "https://orcid.org/0000-0003-2548-8623"
         website: "https://slavkovik.com/"
+        
+  - Institute: "University of Newcastle"
+    MembersList :
+      - name: "Dr Mengwei Xu"
+        website: "https://mengweixu.netlify.app/"
+        orcid: "https://orcid.org/0000-0003-4978-3061"
 
 AffiliatedMembers:             
   - Institute: "University of Liverpool"
