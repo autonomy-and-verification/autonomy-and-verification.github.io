@@ -2,7 +2,7 @@
 title : "Interlinked Futures"
 ---
 
-<a href=https://www.lancaster.ac.uk/security-lancaster/research/interlinked/>Interlinked Futures</a>
+<a href="https://www.lancaster.ac.uk/security-lancaster/research/interlinked/">Interlinked Futures</a>
 
 This project focuses on new advances in interconnected computing technology, to identify issues related to UK Critical National Infrastructure (CNI), from 2023 to 2040. It includes a Delphi Study and a Workshop.
 
