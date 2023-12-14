@@ -43,6 +43,10 @@ CurrentMembers:
       - name: "Dr Ramon Fraga Pereira"
         website: "https://www.ramonfpereira.com/"
 
+      - name: "Conor Reynolds"
+        website: "https://creynolds.ie/"
+        orcid: "https://orcid.org/0000-0002-6598-5512"
+
       - name: "Dr Maryam Ghaffari Saadat"
         website: "https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/"
         orcid: "https://orcid.org/0000-0002-5010-505X"
