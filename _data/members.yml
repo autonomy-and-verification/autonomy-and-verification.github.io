@@ -54,6 +54,9 @@ CurrentMembers:
       - name: "Peter Stringer"
         website: "https://peterwstringer.com/"
         orcid: "https://orcid.org/0000-0002-8760-4717"
+        
+      - name: "Dr Youcheng Sun"
+        website: "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
 
       - name: "Hazel Taylor"
         website: "https://scholar.google.com/citations?user=2yOqX0YAAAAJ&hl=en"
@@ -62,9 +65,6 @@ CurrentMembers:
       - name: "Yifan Xu"
         website: "https://xulily9.github.io/"
         orcid: "https://orcid.org/0000-0003-2303-1531"
-
-      - name: "Dr Youcheng Sun"
-        website: "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
 
       - name: "Dr Sen Zheng"
         website: "https://senzhengsz.github.io/szheng/" 
