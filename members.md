@@ -11,8 +11,10 @@ title: Members
   <div class="shaded_box">
   <h3 style="text-decoration: underline;">{{ institute.Institute }} </h3>
   <ul >
-  {% for member in institute.MembersList %}
-  <li> {% if member.website != null %}<a href="{{ member.website }}" target="_blank" rel="noopener noreferrer">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}{% if member.alt-website != null%}, <a href="{{ member.alt-website }}" target="_blank" rel="noopener noreferrer">see also</a>{% endif %}
+  {% assign sortedMembers = institute.MembersList | sort: "secondName" %}
+  {% for member in sortedMembers %}
+  {% assign name = member.firstName | append: " " | append: member.secondName %}
+  <li> {% if member.website != null %}<a href="{{ member.website }}" target="_blank" rel="noopener noreferrer">{{ name }}</a>{% else %}{{name}}{% endif %}{% if member.alt-website != null%}, <a href="{{ member.alt-website }}" target="_blank" rel="noopener noreferrer">see also</a>{% endif %}
   {% if member.orcid != null %}
     <a href="{{ member.orcid }}" target="_blank" rel="noopener noreferrer"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
   {% endif %}
@@ -33,17 +35,20 @@ title: Members
 
 <h2> Affiliated Members </h2>
 {% for institute in site.data.members.AffiliatedMembers %}
+
   <section class="small-5 medium-4 columns">
   <div class="shaded_box">
   <h3 style="text-decoration: underline;">{{ institute.Institute }}</h3>
 
   <ul>
-  {% for member in institute.MembersList %}
+  {% assign sortedAffiliates = institute.MembersList | sort: "secondName" %}
+  {% for member in sortedAffiliates %}
+  {% assign name = member.firstName | append: " " | append: member.secondName %}
     <li>
     {% if member.website != null %}
-      <a href="{{ member.website }}" target="_blank" rel="noopener noreferrer">{{ member.name }}</a>
+      <a href="{{ member.website }}" target="_blank" rel="noopener noreferrer">{{ name }}</a>
     {% else %}
-      {{ member.name }}
+      {{ name }}
     {% endif %}
     {% if member.orcid != null %}
       <a href="{{ member.orcid }}" target="_blank" rel="noopener noreferrer"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>

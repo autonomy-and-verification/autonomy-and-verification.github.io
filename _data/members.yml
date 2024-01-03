@@ -1,173 +1,215 @@
 CurrentMembers:
   - Institute: "University of Manchester"
     MembersList:
-      - name: "Dr Leandro Buss Becker"
+      - firstName: "Dr Sen"
+        secondName: "Zheng"
+        website: "https://senzhengsz.github.io/szheng/" 
+
+      - firstName: "Dr Leandro Buss"
+        secondName: "Becker"
         website: "https://scholar.google.co.uk/citations?user=XSC9o6wAAAAJ&hl=en"
         orcid: "https://orcid.org/0000-0003-1872-4771"
         
-      - name: "Dr Emily C. Collins"
+      - firstName: "Dr Emily C."
+        secondName: "Collins"
         website: "https://research.manchester.ac.uk/en/persons/e.c.collins"        
         orcid: "https://orcid.org/0000-0001-9396-536X"
         scholar : "https://scholar.google.co.uk/citations?user=OIcNb2QAAAAJ&hl"  
 
-      - name: "Dr Joe Collenette"
+      - firstName: "Dr Joe"
+        secondName: "Collenette"
         website: "https://joecol.github.io/"
 
-      - name: "Dr Louise Dennis"
+      - firstName: "Dr Louise"
+        secondName: "Dennis"
         website: "https://personalpages.manchester.ac.uk/staff/louise.dennis/"
         orcid: "https://orcid.org/0000-0003-1426-1896"
 
-      - name: "Prof. Clare Dixon"
+      - firstName: "Prof. Clare"
+        secondName: "Dixon"
         website: "https://www.research.manchester.ac.uk/portal/clare.dixon.html"
         orcid: "https://orcid.org/0000-0002-4610-9533"
 
-      - name: "Dr Marie Farrell"
+      - firstName: "Dr Marie"
+        secondName: "Farrell"
         website: "https://mariefarrell.github.io/"
         orcid: "https://orcid.org/0000-0001-7708-3877"
 
-      - name: "Prof. Michael Fisher"
+      - firstName: "Prof. Michael"
+        secondName: "Fisher"
         website: "https://personalpages.manchester.ac.uk/staff/michael.fisher/"
         orcid: "https://orcid.org/0000-0002-0875-3862"
 
-      - name: "Diana Benjumea Hernandez"
+      - firstName: "Diana Benjumea"
+        secondName: "Hernandez"
         website: "https://dianabenjumea.github.io/"
         orcid: "https://orcid.org/0000-0003-1840-7178"
         
-      - name: "Simon Kolker"
+      - firstName: "Simon"
+        secondName: "Kolker"
         website: "https://www.linkedin.com/in/simonkolker/?originalSubdomain=uk"
 
-      - name: "Dr Georgios Kourtis"
+      - firstName: "Dr Georgios"
+        secondName: "Kourtis"
         website: "https://dblp.org/pid/190/7186.html"
         orcid: "https://orcid.org/0000-0001-9635-0643"
         
-      - name: "Dr Ramon Fraga Pereira"
+      - firstName: "Dr Ramon Fraga"
+        secondName: "Pereira"
         website: "https://www.ramonfpereira.com/"
 
-      - name: "Conor Reynolds"
+      - firstName: "Conor"
+        secondName: "Reynolds"
         website: "https://creynolds.ie/"
         orcid: "https://orcid.org/0000-0002-6598-5512"
 
-      - name: "Dr Maryam Ghaffari Saadat"
+      - firstName: "Dr Maryam Ghaffari"
+        secondName: "Saadat"
         website: "https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/"
         orcid: "https://orcid.org/0000-0002-5010-505X"
 
-      - name: "Peter Stringer"
+      - firstName: "Peter"
+        secondName: "Stringer"
         website: "https://peterwstringer.com/"
         orcid: "https://orcid.org/0000-0002-8760-4717"
         
-      - name: "Dr Youcheng Sun"
+      - firstName: "Dr Youcheng"
+        secondName: "Sun"
         website: "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
 
-      - name: "Hazel Taylor"
+      - firstName: "Hazel"
+        secondName: "Taylor"
         website: "https://scholar.google.com/citations?user=2yOqX0YAAAAJ&hl=en"
         orcid: "https://orcid.org/0000-0003-0130-1174"
 
-      - name: "Yifan Xu"
+      - firstName: "Yifan"
+        secondName: "Xu"
         website: "https://xulily9.github.io/"
         orcid: "https://orcid.org/0000-0003-2303-1531"
 
-      - name: "Dr Sen Zheng"
-        website: "https://senzhengsz.github.io/szheng/" 
+      - firstName: "Dr Aaron A."
+        secondName: "Arronson"
+
+
         
         
   - Institute: "University of Nottingham"
     MembersList :
-      - name: "Dr Matt Luckcuck"
+      - firstName: "Dr Matt"
+        secondName: "Luckcuck"
         website: "https://mluckcuck.github.io/"
         orcid: "https://orcid.org/0000-0002-6444-9312"         
 
   - Institute: "University of Aberdeen"
     MembersList:
-      - name: "Dr Rafael C. Cardoso"
+      - firstName: "Dr Rafael C."
+        secondName: "Cardoso"
         website: "https://rafaelcaue.github.io/"
         orcid: "https://orcid.org/0000-0001-6666-6954"
 
   - Institute: "University of Genova"
     MembersList :
-      - name: "Dr Angelo Ferrando"
+      - firstName: "Dr Angelo"
+        secondName: "Ferrando"
         website: "https://angeloferrando.github.io/website/"
         orcid: "https://orcid.org/0000-0002-8711-4670"
 
   - Institute: "Federal University of Santa Catarina (UFSC)"
     MembersList:
-      - name: "Iago de Oliveira Silvestre"
+      - firstName: "Iago de Oliveira"
+        secondName: "Silvestre"
         orcid: "https://orcid.org/0009-0008-6604-781X"
   
   - Institute: "Liverpool John Moores University"
     MembersList:
-      - name: "Dr Matt Webster"        
+      - firstName: "Dr Matt"       
+        secondName: "Webster" 
         orcid: "https://orcid.org/0000-0002-8817-6881"    
         website: "https://www.linkedin.com/in/matthewpwebster"
         
   - Institute: "University of Bergen"
     MembersList:
-      - name: "Prof. Marija Slavkovik"
+      - firstName: "Prof. Marija"
+        secondName: "Slavkovik"
         orcid: "https://orcid.org/0000-0003-2548-8623"
         website: "https://slavkovik.com/"
         
   - Institute: "University of Newcastle"
     MembersList :
-      - name: "Dr Mengwei Xu"
+      - firstName: "Dr Mengwei"
+        secondName: "Xu"
         website: "https://mengweixu.netlify.app/"
         orcid: "https://orcid.org/0000-0003-4978-3061"
 
 AffiliatedMembers:             
   - Institute: "University of Liverpool"
     MembersList:
-      - name: "Dr Xiaowei Huang"
+      - firstName: "Dr Xiaowei"
+        secondName: "Huang"
         website: "https://cgi.csc.liv.ac.uk/~xiaowei/"
         orcid: "https://orcid.org/0000-0001-6267-0366"
-      - name: "Dr Alexei Lisitsa"
+      - firstName: "Dr Alexei"
+        secondName: "Lisitsa"
         website: "http://cgi.csc.liv.ac.uk/~alexei/"
-      - name: "Prof. Mike Jump"
+      - firstName: "Prof. Mike"
+        secondName: "Jump"
         website: "https://www.liverpool.ac.uk/engineering/staff/michael-jump/"
         orcid: "https://orcid.org/0000-0002-1028-2334"
 
-      - name: "Dr Vince Page"
+      - firstName: "Dr Vince"
+        secondName: "Page"
         website: "https://www.liverpool.ac.uk/computer-science/staff/vincent-steven-page/"
 
   - Institute: "ETAS"
     MembersList:
-     - name: "Dr Fatma Faruq"
+     - firstName: "Dr Fatma"
+       secondName: "Faruq"
        website: "https://fatmaf.github.io/"
 
   - Institute: "Virtual Engineering Centre"
     MembersList:
-      - name: "Dr Konstantin Vikhorev"
+      - firstName: "Dr Konstantin"
+        secondName: "Vikhorev"
         website: "http://www.virtualengineeringcentre.com/about/team/dr-konstantin-vikhorev"
 
   - Institute: "Lancaster University Leipzig"
     MembersList:
-      - name: "Dr Fabio Papacchini"
+      - firstName: "Dr Fabio"
+        secondName: "Papacchini"
         website: "https://www.research.lancs.ac.uk/portal/en/people/fabio-papacchini(d88714c1-862e-4e5e-8776-25e9d2d33d2a).html"
         orcid: "https://orcid.org/0000-0002-0310-7378"
         
   - Institute: "University of Manchester"
     MembersList:
-      - name: "Dr Christopher Anderson"
+      - firstName: "Dr Christopher"
+        secondName: "Anderson"
         orcid: "https://orcid.org/0000-0001-7224-8193"
        
   - Institute: "KU Leuven"
     MembersList:
-      - name: "Yi Yang"
+      - firstName: "Yi"
+        secondName: "Yang"
         website: "https://distrinet.cs.kuleuven.be/people/YiYang"
         orcid: "https://orcid.org/0000-0001-9565-1559" 
         
   - Institute: "Kernkonzept"
     MembersList:
-      - name: "Dr Sven Linker"
+      - firstName: "Dr Sven"
+        secondName: "Linker"
         website: "https://www.linkedin.com/in/sven-linker-a99850169/"
         orcid: "https://orcid.org/0000-0003-2913-7943"
 
   - Institute: "King's College London"
     MembersList:            
-      - name: "Dr Shan Luo"
+      - firstName: "Dr Shan"
+        secondName: "Luo"
         website: "https://www.kcl.ac.uk/people/shan-luo"
         orcid: "https://orcid.org/0000-0003-4760-0372"
         
   - Institute: "Sheffield Hallam University"
     MembersList:
-      - name: "Dr Samuele Vinanzi"
+      - firstName: "Dr Samuele"
+        secondName: "Vinanzi"
         website: "https://sites.google.com/view/samuele-vinanzi/"
         orcid: "https://orcid.org/0000-0003-0241-9983"        
         
