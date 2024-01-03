@@ -30,7 +30,11 @@
 }
 
 .shaded_box{
-  background-color:rgba(3, 31, 115, 0.1)
+  //background-color:rgba(3, 31, 115, 0.1)
+  background-color: lighten($secondary-color, 69%);  
+  margin-bottom: 5px;
+  border-radius: 5px;
+  padding: 2px
 }
 
 .pad-lr-15 {

@@ -3,8 +3,8 @@ name: Autonomy and Verification Network
 email:
 author: Autonomy and Verification Network
 
-keywords: autonomous systems, robotics, artificial intelligence, formal verification, sensor systems, programming, formal modelling
-description: The Autonomy and Verification Network is distributed across several universities, including The University of Manchester, University of Liverpool, Liverpool John Moores University, and Lancaster University Leipzig
+keywords: "autonomous systems, robotics, artificial intelligence, formal verification, sensor systems, programming, formal modelling"
+description: "The Autonomy and Verification Network is distributed across several universities, including the University of Manchester, the University of Nottingham, Liverpool John Moores University, the University of Genova, the University of Aberdeen, and the University of Newcastle"
 
 # Only use this if you are serving your site via Github Pages
 #github:
@@ -14,7 +14,7 @@ description: The Autonomy and Verification Network is distributed across several
 
 url: "https://autonomy-and-verification.github.io"
 images: "https://autonomy-and-verification.github.io/images/"
-
+logo: "http://localhost:4000/images/logos/AnV-logo.png"
 
 header: no
 
@@ -51,17 +51,17 @@ address:
   - line:
 
 #Google API key
-google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
+#google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
 
 #### SEO Stuff
 
 # Twitter Cards
 twitter_user: AandVNetwork
 twitter_card: true
-twitter_image: https://autonomy-and-verification.github.io/images/images/avnetwork.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_image: https://autonomy-and-verification.github.io/images/AnV-logo.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Usernames for things
-researchgate_username: Autonomy-and-Verification-Lab-Michael-Fisher
+#researchgate_username: Autonomy-and-Verification-Lab-Michael-Fisher
 
 # URLS
 UoL_URL: https://www.liverpool.ac.uk/computer-science/

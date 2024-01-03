@@ -3,9 +3,9 @@ layout: page
 title: Members
 ---
 
-<section class="row">
-  <h2>Current Members</h2>  
 
+  <h2>Current Members</h2>  
+<section class="row">
 {% for institute in site.data.members.CurrentMembers  %}  
   <section class="small-5 medium-4 columns">
   <div class="shaded_box">
@@ -29,9 +29,10 @@ title: Members
 </section>
 <br>
 
-<section class="row">
+
 
 <h2> Affiliated Members </h2>
+<section class="row">
 {% for institute in site.data.members.AffiliatedMembers %}
   <section class="small-5 medium-4 columns">
   <div class="shaded_box">
