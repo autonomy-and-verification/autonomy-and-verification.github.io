@@ -85,13 +85,7 @@ CurrentMembers:
       - firstName: "Yifan"
         secondName: "Xu"
         website: "https://xulily9.github.io/"
-        orcid: "https://orcid.org/0000-0003-2303-1531"
-
-      - firstName: "Dr Aaron A."
-        secondName: "Arronson"
-
-
-        
+        orcid: "https://orcid.org/0000-0003-2303-1531"        
         
   - Institute: "University of Nottingham"
     MembersList :
