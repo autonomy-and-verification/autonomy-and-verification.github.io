@@ -205,10 +205,14 @@ AffiliatedMembers:
       - firstName: "Dr Samuele"
         secondName: "Vinanzi"
         website: "https://sites.google.com/view/samuele-vinanzi/"
-        orcid: "https://orcid.org/0000-0003-0241-9983"        
+        orcid: "https://orcid.org/0000-0003-0241-9983"    
         
-
-
+  - Institute: "University of Lancaster"
+    MembersList:
+      - firstName: "Dr Matthew"
+        secondName: "Bradbury"
+        website: "https://mbradbury.github.io/"
+        orcid: "https://orcid.org/0000-0003-4661-000X"
 
 PreviousMembers:
   - name: "Dr Elisa Cucco"
