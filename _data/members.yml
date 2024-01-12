@@ -67,11 +67,6 @@ CurrentMembers:
         secondName: "Saadat"
         website: "https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/"
         orcid: "https://orcid.org/0000-0002-5010-505X"
-
-      - firstName: "Peter"
-        secondName: "Stringer"
-        website: "https://peterwstringer.com/"
-        orcid: "https://orcid.org/0000-0002-8760-4717"
         
       - firstName: "Dr Youcheng"
         secondName: "Sun"
@@ -114,12 +109,7 @@ CurrentMembers:
         secondName: "Silvestre"
         orcid: "https://orcid.org/0009-0008-6604-781X"
   
-  - Institute: "Liverpool John Moores University"
-    MembersList:
-      - firstName: "Dr Matt"       
-        secondName: "Webster" 
-        orcid: "https://orcid.org/0000-0002-8817-6881"    
-        website: "https://www.linkedin.com/in/matthewpwebster"
+
         
   - Institute: "University of Bergen"
     MembersList:
@@ -213,6 +203,20 @@ AffiliatedMembers:
         secondName: "Bradbury"
         website: "https://mbradbury.github.io/"
         orcid: "https://orcid.org/0000-0003-4661-000X"
+
+  - Institute: "INRIX"
+    MembersList: 
+      - firstName: "Peter"
+        secondName: "Stringer"
+        website: "https://peterwstringer.com/"
+        orcid: "https://orcid.org/0000-0002-8760-4717"
+        
+  - Institute: "Liverpool John Moores University"
+    MembersList:
+      - firstName: "Dr Matt"       
+        secondName: "Webster" 
+        orcid: "https://orcid.org/0000-0002-8817-6881"    
+        website: "https://www.linkedin.com/in/matthewpwebster"
 
 PreviousMembers:
   - name: "Dr Elisa Cucco"
