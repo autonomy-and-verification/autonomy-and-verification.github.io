@@ -1,6 +1,11 @@
 CurrentMembers:
   - Institute: "University of Manchester"
     MembersList:
+      - firstName: "Dr Dhaminda"
+        secondName: "Abeywickrama"
+        website: "https://www.dhaminda.com/" 
+        orcid: "https://orcid.org/0000-0002-4423-0284"
+    
       - firstName: "Dr Sen"
         secondName: "Zheng"
         website: "https://senzhengsz.github.io/szheng/" 
