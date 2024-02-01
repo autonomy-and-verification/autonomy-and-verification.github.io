@@ -5,10 +5,11 @@ title: Events
 
 Upcoming Workshops, Tutorials, and other events run by [Members](/members) of the Autonomy and Verification Network.
 
-<article class="row">
+<article class="w3-row">
+<div class="w3-container">
+<section class="w3-threequarter">
+<h3>Upcoming Events</h3>
 
-<section class="columns large-7">
-<h2>Upcoming Events</h2>
   <ul>
     {% for event in site.events %}
       {% if event.date >= site.time %}
@@ -25,7 +26,7 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
     {% endfor %}
   </ul>
 
-<h2>Past Events</h2>
+<h3>Past Events</h3>
 <ul>
   {% assign dates = site.events | sort: date %}
   {% assign revDates = dates | reverse %}
@@ -44,11 +45,11 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
   {% endfor %}
 </ul>
 
-
+</div>
 </section>
 
-<section class="columns large-3" >
-<h2>Event Series</h2>
+<section class="3-container w3-quarter" >
+<h3>Event Series</h3>
 <ul>
   {% for event in site.events  %}
     {% if event.series == true %}

@@ -3,13 +3,12 @@ layout: page
 title: Members
 ---
 
-<section class="row">
-  <h2>Current Members</h2>  
-
+<h3>Current Members</h3> 
+<section class="w3-row">
 {% for institute in site.data.members.CurrentMembers %}  
-  <section class="small-5 medium-4 columns">
+  <section class="w3-third w3-container">
   <div class="shaded_box">
-  <h3 style="text-decoration: underline;">{{ institute.Institute }} </h3>
+  <h4 class="w3-margin-left" style="text-decoration: underline;">{{ institute.Institute }} </h4>
   <ul >
   {% assign sortedMembers = institute.MembersList | sort: "secondName" %}
   {% for member in sortedMembers %}
@@ -31,14 +30,13 @@ title: Members
 </section>
 <br>
 
-<section class="row">
-
-<h2> Affiliated Members </h2>
+<h3> Affiliated Members </h3>
+<section class="w3-row">
 {% for institute in site.data.members.AffiliatedMembers %}
 
-  <section class="small-5 medium-4 columns">
+  <section class="w3-third w3-container">
   <div class="shaded_box">
-  <h3 style="text-decoration: underline;">{{ institute.Institute }}</h3>
+  <h4 class="w3-margin-left" style="text-decoration: underline;">{{ institute.Institute }}</h4>
 
   <ul>
   {% assign sortedAffiliates = institute.MembersList | sort: "secondName" %}
@@ -62,9 +60,9 @@ title: Members
 </section>
 <br>
 
-<section class="row">
-<h2> Previous Members </h2>
-<div class="shaded_box">
+<h3> Previous Members </h3>
+<section class="w3-row">
+<div class="shaded_box w3-container w3-threequarter">
 <ul>
 {% for member in site.data.members.PreviousMembers %}   
   <li>
