@@ -5,7 +5,7 @@ title: Members
 
 <h3>Current Members</h3> 
 <section class="w3-row">
-{% for institute in site.data.members.CurrentMembers %}  
+{% for institute in site.data.members.CurrentMembers  %}  
   <section class="w3-third w3-container">
   <div class="shaded_box">
   <h4 class="w3-margin-left" style="text-decoration: underline;">{{ institute.Institute }} </h4>
