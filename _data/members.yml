@@ -114,7 +114,10 @@ CurrentMembers:
         secondName: "Silvestre"
         orcid: "https://orcid.org/0009-0008-6604-781X"
   
-
+  - Institute: "University of Milan"
+    MembersList:
+      - firstName: "Alison"
+        secondName: "Bifolco"
         
   - Institute: "University of Bergen"
     MembersList:
