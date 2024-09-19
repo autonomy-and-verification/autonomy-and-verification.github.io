@@ -63,26 +63,21 @@ CurrentMembers:
         secondName: "Pereira"
         website: "https://www.ramonfpereira.com/"
 
-      - firstName: "Conor"
+      - firstName: "Dr Conor"
         secondName: "Reynolds"
         website: "https://creynolds.ie/"
         orcid: "https://orcid.org/0000-0002-6598-5512"
-
-      - firstName: "Dr Maryam Ghaffari"
-        secondName: "Saadat"
-        website: "https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/"
-        orcid: "https://orcid.org/0000-0002-5010-505X"
         
       - firstName: "Dr Youcheng"
         secondName: "Sun"
         website: "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
 
-      - firstName: "Hazel"
+      - firstName: "Dr Hazel"
         secondName: "Taylor"
         website: "https://scholar.google.com/citations?user=2yOqX0YAAAAJ&hl=en"
         orcid: "https://orcid.org/0000-0003-0130-1174"
 
-      - firstName: "Yifan"
+      - firstName: "Dr Yifan"
         secondName: "Xu"
         website: "https://xulily9.github.io/"
         orcid: "https://orcid.org/0000-0003-2303-1531"        
@@ -226,6 +221,13 @@ AffiliatedMembers:
         orcid: "https://orcid.org/0000-0002-8817-6881"    
         website: "https://www.linkedin.com/in/matthewpwebster"
 
+  - Institute: "University of Bristol"
+    MembersList:      
+      - firstName: "Dr Maryam Ghaffari"
+        secondName: "Saadat"
+        website: "https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/"
+        orcid: "https://orcid.org/0000-0002-5010-505X"
+        
 PreviousMembers:
   - name: "Dr Elisa Cucco"
   - name: "Dr Paul Gainer"
