@@ -9,11 +9,6 @@ CurrentMembers:
       - firstName: "Dr Sen"
         secondName: "Zheng"
         website: "https://senzhengsz.github.io/szheng/" 
-
-      - firstName: "Dr Leandro Buss"
-        secondName: "Becker"
-        website: "https://scholar.google.co.uk/citations?user=XSC9o6wAAAAJ&hl=en"
-        orcid: "https://orcid.org/0000-0003-1872-4771"
         
       - firstName: "Dr Emily C."
         secondName: "Collins"
@@ -104,7 +99,12 @@ CurrentMembers:
         orcid: "https://orcid.org/0000-0002-8711-4670"
 
   - Institute: "Federal University of Santa Catarina (UFSC)"
-    MembersList:
+    MembersList:      
+      - firstName: "Dr Leandro Buss"
+        secondName: "Becker"
+        website: "https://scholar.google.co.uk/citations?user=XSC9o6wAAAAJ&hl=en"
+        orcid: "https://orcid.org/0000-0003-1872-4771"
+    
       - firstName: "Iago de Oliveira"
         secondName: "Silvestre"
         orcid: "https://orcid.org/0009-0008-6604-781X"
