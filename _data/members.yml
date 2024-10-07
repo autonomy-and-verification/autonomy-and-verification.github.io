@@ -3,9 +3,13 @@ CurrentMembers:
     MembersList:
       - firstName: "Ben"
         secondName: "Andrew"
-
+        website: "https://www.benmandrew.com/" 
+        orcid: "https://orcid.org/0009-0009-8910-5899"
+        
       - firstName: "Kwai wa"
         secondName: "Tse (Sky)"
+        website: "https://scholar.google.com/citations?user=xd0C0a8AAAAJ&hl=en&oi=ao" 
+        orcid: "https://orcid.org/0000-0002-6260-7006"
     
       - firstName: "Dr Dhaminda"
         secondName: "Abeywickrama"
