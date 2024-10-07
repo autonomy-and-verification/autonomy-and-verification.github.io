@@ -1,6 +1,12 @@
 CurrentMembers:
   - Institute: "University of Manchester"
     MembersList:
+      - firstName: "Ben Andrew"
+        secondName: "Abeywickrama"
+
+      - firstName: "Kwai wa"
+        secondName: "Tse (Sky)"
+    
       - firstName: "Dr Dhaminda"
         secondName: "Abeywickrama"
         website: "https://www.dhaminda.com/" 
