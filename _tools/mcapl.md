@@ -9,6 +9,9 @@ The Model Checking Agent Programming Language (MCAPL) framework is a suite of to
 
 ## Publications
 
+
+[Manual (including tutorials)](https://zenodo.org/records/12737889/files/manual.pdf)<i class="fas fa-external-link-alt"></i>
+
 ### Key Descriptions 
 
 * Louise A. Dennis and Michael Fisher. [Verifiable Autonomous Systems:  Using Rational Agents to Provide Assurance about Decisions Made by Machines](https://www.cambridge.org/core/books/verifiable-autonomous-systems/185C36761EBE7BEC9610543B186BA21A)<i class="fas fa-external-link-alt"></i>.  Cambridge University Press.  2023.
