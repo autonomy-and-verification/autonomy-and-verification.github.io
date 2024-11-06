@@ -118,11 +118,6 @@ CurrentMembers:
       - firstName: "Iago de Oliveira"
         secondName: "Silvestre"
         orcid: "https://orcid.org/0009-0008-6604-781X"
-  
-  - Institute: "University of Milan"
-    MembersList:
-      - firstName: "Alison"
-        secondName: "Bifolco"
         
   - Institute: "University of Bergen"
     MembersList:
@@ -237,6 +232,11 @@ AffiliatedMembers:
         secondName: "Saadat"
         website: "https://www.linkedin.com/in/maryam-ghaffari-saadat-68b1745/"
         orcid: "https://orcid.org/0000-0002-5010-505X"
+
+  - Institute: "University of Milan"
+    MembersList:
+      - firstName: "Alison"
+        secondName: "Bifolco"
         
 PreviousMembers:
   - name: "Dr Elisa Cucco"
