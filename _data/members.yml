@@ -245,6 +245,11 @@ AffiliatedMembers:
     MembersList:
       - firstName: "Alison"
         secondName: "Bifolco"
+
+  - Institute: "Sheffield Hallam University"
+    MembersList:
+      - firstName: "Javeria"
+        secondName: "Munir"
         
 PreviousMembers:
   - name: "Dr Elisa Cucco"
