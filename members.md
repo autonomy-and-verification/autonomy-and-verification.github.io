@@ -60,6 +60,26 @@ title: Members
 </section>
 <br>
 
+<h3> In Memorium </h3>
+<section class="w3-row">
+<div class="shaded_box w3-container w3-threequarter">
+<ul>
+{% for member in site.data.members.Memorium %}   
+  <li>
+  {% if member.website != null %}
+    <a href="{{ member.website }}" target="_blank" rel="noopener noreferrer">{{ member.name }}</a>
+  {% else %}
+    {{ member.name }}
+  {% endif %}
+  {% if member.orcid != null %}
+  <a href="{{ member.orcid }}" target="_blank" rel="noopener noreferrer"><img alt="ORCID logo" src="/images/logos/orcid_32x32.png" width="21" height="21"/></a>
+  {% endif %}
+  </li>
+{% endfor %}
+</ul>
+</div>
+</section>
+
 <h3> Previous Members </h3>
 <section class="w3-row">
 <div class="shaded_box w3-container w3-threequarter">

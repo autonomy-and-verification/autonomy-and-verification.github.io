@@ -60,11 +60,6 @@ CurrentMembers:
         secondName: "Hosseini"
         website: "https://www.mehranhosseini.com/"
 
-        
-      - firstName: "Dr Ramon Fraga"
-        secondName: "Pereira"
-        website: "https://www.ramonfpereira.com/"
-
       - firstName: "Dr Yasmeen"
         secondName: "Rafiq"
  
@@ -263,3 +258,7 @@ PreviousMembers:
     website: "https://creynolds.ie/"
     orcid: "https://orcid.org/0000-0002-6598-5512"
 
+
+Memorium:
+  - name: "Dr Ramon Fraga Pereira"
+    website: "https://www.ramonfpereira.com/"
