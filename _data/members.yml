@@ -240,7 +240,7 @@ AffiliatedMembers:
       - firstName: "Javeria"
         secondName: "Munir"
         
-  - Institure: "Mohamed bin Zayed University, Abu Dhabi"
+  - Institute: "Mohamed bin Zayed University, Abu Dhabi"
     MembersList:
      - firstName: "Dr Youcheng"
        secondName: "Sun"
