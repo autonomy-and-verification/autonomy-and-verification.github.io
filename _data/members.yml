@@ -26,10 +26,6 @@ CurrentMembers:
         orcid: "https://orcid.org/0000-0001-9396-536X"
         scholar : "https://scholar.google.co.uk/citations?user=OIcNb2QAAAAJ&hl"  
 
-      - firstName: "Dr Joe"
-        secondName: "Collenette"
-        website: "https://joecol.github.io/"
-
       - firstName: "Dr Louise"
         secondName: "Dennis"
         website: "https://personalpages.manchester.ac.uk/staff/louise.dennis/"
@@ -59,11 +55,11 @@ CurrentMembers:
         secondName: "Kolker"
         website: "https://sameysimon.github.io/"
         orcid: "https://orcid.org/0000-0001-9144-2856"
+      
+      - firstName: "Dr. Mehran"
+        secondName: "Hosseini"
+        website: "https://www.mehranhosseini.com/"
 
-      - firstName: "Dr Georgios"
-        secondName: "Kourtis"
-        website: "https://dblp.org/pid/190/7186.html"
-        orcid: "https://orcid.org/0000-0001-9635-0643"
         
       - firstName: "Dr Ramon Fraga"
         secondName: "Pereira"
@@ -71,15 +67,7 @@ CurrentMembers:
 
       - firstName: "Dr Yasmeen"
         secondName: "Rafiq"
-
-      - firstName: "Dr Conor"
-        secondName: "Reynolds"
-        website: "https://creynolds.ie/"
-        orcid: "https://orcid.org/0000-0002-6598-5512"
-        
-      - firstName: "Dr Youcheng"
-        secondName: "Sun"
-        website: "https://www.research.manchester.ac.uk/portal/youcheng.sun.html"
+ 
 
       - firstName: "Dr Hazel"
         secondName: "Taylor"
@@ -159,7 +147,13 @@ AffiliatedMembers:
       - firstName: "Dr Vince"
         secondName: "Page"
         website: "https://www.liverpool.ac.uk/computer-science/staff/vincent-steven-page/"
-
+        
+  - Institute: "University of Chester"
+    MembersList:
+     - firstName: "Dr Joe"
+       secondName: "Collenette"
+       website: "https://joecol.github.io/"
+     
   - Institute: "ETAS"
     MembersList:
      - firstName: "Dr Fatma"
@@ -251,9 +245,21 @@ AffiliatedMembers:
       - firstName: "Javeria"
         secondName: "Munir"
         
+  - Institure: "Mohamed bin Zayed University, Abu Dhabi"
+    MembersList:
+     - firstName: "Dr Youcheng"
+       secondName: "Sun"
+       orcid: "https://orcid.org/0000-0002-1893-6259"        
+        
 PreviousMembers:
   - name: "Dr Elisa Cucco"
   - name: "Dr Paul Gainer"
   - name: "Dr Maryam Kamali"
   - name: "Dr Charles Patchett"
+  - name: "Dr Georgios Kourtis"
+    website: "https://dblp.org/pid/190/7186.html"
+    orcid: "https://orcid.org/0000-0001-9635-0643"
+  - name: "Dr Conor Reynolds"
+    website: "https://creynolds.ie/"
+    orcid: "https://orcid.org/0000-0002-6598-5512"
 
