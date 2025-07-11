@@ -56,14 +56,16 @@ CurrentMembers:
         website: "https://sameysimon.github.io/"
         orcid: "https://orcid.org/0000-0001-9144-2856"
       
-      - firstName: "Dr. Mehran"
+      - firstName: "Dr Mehran"
         secondName: "Hosseini"
         website: "https://www.mehranhosseini.com/"
         orcid: "https://orcid.org/0000-0002-9227-3078"
 
       - firstName: "Dr Yasmeen"
         secondName: "Rafiq"
- 
+
+      - firstName: "Long Le"
+        secondName: "Hoang" 
 
       - firstName: "Dr Hazel"
         secondName: "Taylor"
