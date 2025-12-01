@@ -10,7 +10,7 @@ The Model Checking Agent Programming Language (MCAPL) framework is a suite of to
 ## Publications
 
 
-[Manual (including tutorials)]([https://zenodo.org/records/17780172/files/manual.pdf](https://zenodo.org/records/17780172/files/manual.pdf)<i class="fas fa-external-link-alt"></i>
+[Manual (including tutorials)](https://zenodo.org/records/17780172/files/manual.pdf)<i class="fas fa-external-link-alt"></i>
 
 ### Key Descriptions 
 
