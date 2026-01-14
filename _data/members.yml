@@ -81,6 +81,19 @@ CurrentMembers:
         secondName: "Limarga"
         website: "https://scholar.google.com/citations?user=1vBTDV4AAAAJ"
         
+      - firstName: "Dr Natalia"
+        secondName: "Slusarz"
+        orcid: "https://orcid.org/0000-0001-5729-9208"
+      
+      - firstName: "Yuliang"
+        secondName:  "Li"
+      
+      - firstName: "Areeba"
+        secondName: "Umair"
+        
+      - firstName: "Jordan"
+        secondName: "Ellis"
+        
   - Institute: "University of Nottingham"
     MembersList :
       - firstName: "Dr Matt"
