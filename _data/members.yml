@@ -189,6 +189,9 @@ AffiliatedMembers:
       - firstName: "Dr Christopher"
         secondName: "Anderson"
         orcid: "https://orcid.org/0000-0001-7224-8193"
+      - firstName: "Alessia"
+        secondName: "Vlaceanu"
+        orcid: "https://orcid.org/0009-0008-2473-2560"
        
   - Institute: "KU Leuven"
     MembersList:
