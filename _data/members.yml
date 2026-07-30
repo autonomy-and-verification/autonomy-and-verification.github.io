@@ -93,6 +93,12 @@ CurrentMembers:
         
       - firstName: "Jordan"
         secondName: "Ellis"
+
+      - firstName: "Ali"
+        secondName: "Dehnavi"
+
+      - firstName: "Nathan"
+        secondName: "Piatte"
         
   - Institute: "University of Nottingham"
     MembersList :
