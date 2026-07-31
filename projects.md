@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-The current research projects the the Autonomy and Verification Network is involved in. Clicking the project's logo or picture will take you to the project's page or external website. This page also has information about our [Previous Projects](#previous-projects)
+The current research projects that the Autonomy and Verification Network is involved in. Clicking the project's logo or picture will take you to the project's page or external website. This page also has information about our [Previous Projects](#previous-projects)
 
 ## Current projects
 <br>
