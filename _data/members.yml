@@ -90,6 +90,7 @@ CurrentMembers:
       
       - firstName: "Areeba"
         secondName: "Umair"
+        orcid: "https://orcid.org/0009-0007-6481-327X"
         
       - firstName: "Jordan"
         secondName: "Ellis"
