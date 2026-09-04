@@ -95,8 +95,10 @@ CurrentMembers:
       - firstName: "Jordan"
         secondName: "Ellis"
 
-      - firstName: "Ali"
-        secondName: "Dehnavi"
+      - firstName: "Alireza"
+        secondName: "Salehi"
+        website: "https://scholar.google.com/citations?user=vjjNsxkAAAAJ&hl=en"
+        orcid: "https://orcid.org/0009-0005-6657-2401"
 
       - firstName: "Nathan"
         secondName: "Piatte"
