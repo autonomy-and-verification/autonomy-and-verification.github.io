@@ -10,7 +10,7 @@ The Model Checking Agent Programming Language (MCAPL) framework is a suite of to
 ## Publications
 
 
-[Manual (including tutorials)](https://zenodo.org/records/17780172/files/manual.pdf)<i class="fas fa-external-link-alt"></i>
+[Manual (including tutorials)](https://zenodo.org/records/23808161/files/manual.pdf)<i class="fas fa-external-link-alt"></i>
 
 ### Key Descriptions 
 
@@ -55,4 +55,4 @@ The Model Checking Agent Programming Language (MCAPL) framework is a suite of to
 ## Links
 
 * [MCAPL GitHub ](https://github.com/mcapl/mcapl)<i class="fas fa-external-link-alt"></i>
-* [MCAPL Zenodo](https://zenodo.org/records/17780172)<i class="fas fa-external-link-alt"></i>
+* [MCAPL Zenodo](https://zenodo.org/records/23808161)<i class="fas fa-external-link-alt"></i>
